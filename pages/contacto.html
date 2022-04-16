@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+
+    <!--stylesheet-->
+    <link rel="stylesheet" href="../styles/estilos.css">
+</head>
+
+<body class="body-contact">
+
+    <!-------------------HEADER Y MENU------------------->
+    <header class="grid">
+        <div class="logito">
+            <a href="#"><img class="logo" src="/assets/logo.jpg" alt="Logo de Página"></a>
+        </div>
+        <nav class="menu">
+
+            <ul class="menu-items">
+                <li class="item"><a href="../index.html">Inicio</a></li>
+                <li class="item"><a href="quienes-somos.html">Quiénes Somos</a></li>
+                <li class="item"><a href="#">¡Quiero ayudar!</a>
+                    <ul class="submenu">
+                        <li><a href="voluntario.html">Ser Voluntario</a></li>
+                        <li><a href="donaciones.html">Donaciones</a></li>
+                    </ul>
+                </li>
+                <li class="item"><a href="#">Sanroquitos</a>
+                    <ul class="submenu">
+                        <li><a href="adoptar.html">Adoptar</a></li>
+                    </ul>
+                </li>
+                <li class="item"><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!----------------formulario de contacto------------------>
+    <h2>Formulario de Contacto</h2>
+    <p class="parrafo-form">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem, tenetur non fugiat obcaecati soluta maxime eum
+        unde animi minima, asperiores labore cum. Expedita adipisci mollitia quidem. Corrupti reprehenderit tempora
+        libero.</p>
+
+
+    <form id="form-contacto" class="grid" action="#" method="#">
+        <div class="container-contact">
+            <fieldset>
+                <legend>Información Personal</legend>
+                <div class="labels">
+                    <label for="info personal">Nombre:</label>
+                <input class="input" type="text" name="user name" id="info personal" placeholder="Escriba su nombre" />
+    
+                </div>
+                
+                <div class="labels">
+                    <label for="info personal">Apellido:</label>
+                <input class="input"type="text" name="user lastname" id="info personal" placeholder="Escriba su apellido" />
+                </div>
+                <div class="labels">
+                    <label for="info personal">Email:</label>
+                <input class="input"type="text" name="user email" id="info personal" placeholder="Tu dirección de Email" />
+                </div>
+    
+                
+                <div class="labels">
+                    <label  for="info personal">Teléfono:</label>
+                    <input class="input"type="text" name="user phone" id="info personal" placeholder=" ### #### ### " />
+                </div>
+                <div class="labels">
+                    <label for="motivo">¿Motivo del contacto?</label>
+                <div>
+                    <input type="radio" name="user cause" id="motivo" value="adopta" required> Quiero Adoptar
+                    <br>
+                    <input type="radio" name="user cause" id="motivo" value="transito" required> Quiero ser Provi
+                    <br>
+                    <input type="radio" name="user cause" id="motivo" value="otro" required> Otro
+                    <!--Radio: es una opción o la otra-->
+                </div>
+                </div>
+                <div class="labels">
+                    <div>
+                        <label for="otro motivo">Escriba su motivo:</label>
+                    </div>
+                    
+                <textarea name="comentario" id="otro motivo" cols="30" rows="5"></textarea>
+                </div>
+                <div class="labels">
+                    <label for="contacto">Prefiero que me contacten por: </label>
+                <select name="user cause" id="contacto">
+                    <option value="" disabled selected> -Seleccionar-</option>
+                    <option value="email">Email</option>
+                    <option value="numero">Teléfono</option>
+    
+                </select>
+                </div>
+                <div class="labels"></div>
+                
+                <input class="input" type="submit" value=" Enviar "></input>
+                <input class="input" type="reset" value=" Borrar "></input>
+    
+                <div class="labels">
+                    <input class="novedades" type="checkbox" name="news for user" id="novedades">
+                <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
+        
+                </div>
+            </fieldset>
+    
+        </div>
+        
+        
+    </form>
+
+
+
+
+
+
+    <!----------------FOOTER------------------>
+
+    <footer id="main-footer" class="grid">
+        <!---------------Sección-Contacto-Footer-------------------->
+        <section class="sections-footer-uno">
+            <div class="foot">
+                <h4>CONTACTO</h4>
+                <ul class="phone-address">
+                    <li><a href=""><img class="logo-wpp" src="/assets/logoWhatsapp.png" alt="logo de Whatsapp"></a></li>
+                    <li><a href="#">Email: hogarsanroque@gmail.com</a></li>
+                    <li><a href="#">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
+                </ul>
+            </div>
+
+
+        </section>
+
+        <!----------------Sección-Redes-Footer------------------->
+        <section class="sections-footer-dos">
+            <div class="foot">
+                <h4>SEGUINOS</h4>
+                <ul class="redes">
+                    <li><a href="#"><img src="/assets/instagram.png" alt="instagram"></a></li>
+                    <li><a href="#"><img src="/assets/facebook.png" alt="facebook"></a></li>
+                    <li><a href="#"><img src="/assets/twitter.png" alt="twitter"></a></li>
+                </ul>
+            </div>
+        </section>
+        <!-----------------Sección-Novedades-Footer------------------>
+        <section class="sections-footer-tres">
+
+            <div class="foot">
+                <h4>NOVEDADES</h4>
+                <p class="news-text">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y
+                    la
+                    recibís en tu email
+                    mensualmente.</p>
+
+                <form action="#">
+                    <label class="novedades" for="info personal"></label>
+                    <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
+                    <input class="btn-send" type="submit" value=" Enviar "></input>
+                    <div>
+                        <input class="novedades" type="checkbox" name="news for user" id="novedades">
+                        <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
+                    </div>
+
+
+
+                </form>
+            </div>
+        </section>
+
+    </footer>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
