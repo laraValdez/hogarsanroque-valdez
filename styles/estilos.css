@@ -24,6 +24,7 @@ header{
 
 .menu .item{
     list-style: none;
+    
 }
 
 .menu .item a{
@@ -32,6 +33,7 @@ header{
     font-size: 1.3rem;
     color: white;
     cursor: pointer;
+    
 }
 
 .submenu{
@@ -41,12 +43,13 @@ header{
 .menu .submenu{
     display: none;
     position: absolute;
-    min-width: 60px;
+    min-width: 80px;
     
   }
   
   .menu .item a:hover{
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+    background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     color: black;
     
   }
@@ -107,7 +110,11 @@ h1{
   text-decoration: none;
 }
 
-
+.botonLeermas:hover{
+    
+    background-color: rgb(155, 202, 136);
+    border: solid 10px rgb(155, 202, 136);
+}
 
 /*-------------SECCION-AYUDAR----------------*/
 #section-ayudar{
@@ -177,7 +184,10 @@ h1{
 /*-------------FOOTER----------------*/
 
 #main-footer{
-    background-color: black;
+    background: rgb(56,59,56);
+    background: linear-gradient(0deg, rgba(56,59,56,1) 18%, rgba(0,0,0,1) 82%);
+    /*background: radial-gradient(ellipse at top, rgb(0, 0, 0), transparent),
+              radial-gradient(ellipse at top, rgb(0, 0, 0), transparent);*/
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -395,14 +405,16 @@ header .menu .item a{
   }
   
   .menu .item a:hover{
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     color: black;
     
   }
   
   .menu .item:hover .submenu {
     display: block;
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     padding-top: 5px;
     
   }
@@ -518,7 +530,9 @@ footer{
     width: 50px;
 
 }
-
+.logo-wpp:hover{
+    transform: scale(1.2);
+}
 .sections-footer-uno{
     display: flex;
     flex-direction: column;
@@ -563,10 +577,13 @@ footer{
 }
 
 .redes li{
-    margin-right: 10px;
-
+    margin-right: 25px;
+    transition: all 0.1s ease-in;
 }
 
+.redes li:hover{
+    transform: scale(1.2) translateY(-5px);
+}
 
 /*seccion tres*/
 .sections-footer-tres{
@@ -642,14 +659,16 @@ header{
   }
   
   .menu .item a:hover{
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     color: black;
     
   }
   
   .menu .item:hover .submenu {
     display:block;
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     padding-top: 5px;
     
   }
@@ -663,6 +682,7 @@ h1{
     margin-left: 2px;
     text-align: left;
     font-size: 3.3rem;
+    
 }
 
 
@@ -716,11 +736,10 @@ h1{
     right: 1rem;
     bottom: 1rem;
     width: 60px;
-
 }
 
 .logo-wpp:hover{
-    width: 70px;
+    transform: scale(1.2);
 }
 }
 /*############-----fin media queries 1024px -----##############*/
@@ -772,14 +791,16 @@ header{
   }
   
   .menu .item a:hover{
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     color: black;
     
   }
   
   .menu .item:hover .submenu {
     display:block;
-    background-color: rgb(148, 223, 148);
+    background: rgb(200,228,183);
+background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 51%, rgba(210,246,221,1) 90%);
     padding-top: 5px;
     
   }
