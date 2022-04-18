@@ -74,7 +74,7 @@ header{
 
 #section-portada .bg-image{
     position: absolute;
-    background: black url('../assets/portada1.jpg');
+    background: url('../assets/portada1.jpg') coral;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
