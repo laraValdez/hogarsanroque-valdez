@@ -9,15 +9,67 @@
     <!--ANIMATE-CSS-->
     <link
     rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-  />
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <!--stylesheet-->
     <link rel="stylesheet" href="styles/estilos.css">
+    <!--Bootsrap CDN Stylesheet-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     
 </head>
 
 <body>
     <!-------------------HEADER Y MENU------------------->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <!---- LOGO --->
+                <a class="navbar-brand" href="#"><img src="./assets/logo.jpg" alt="Logo de página"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!--- MENU-ITEMS --->
+                <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                        <li class="nav-item me-2">
+                            <a class="nav-link active" aria-current="page" href="#">INICIO</a>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link" href="./pages/quienes-somos.html">QUIÉNES SOMOS</a>
+                        </li>
+                        <li class="nav-item dropdown me-2">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                ¡QUIERO AYUDAR!
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="./pages/donaciones.html">Donaciones</a></li>
+                                <li><a class="dropdown-item" href="./pages/voluntario.html">Ser Voluntario</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown me-2">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                                SANROQUITOS
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                <li><a class="dropdown-item" href="./pages/adoptar.html">Adoptar</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item me-2">
+                            <a class="nav-link" href="./pages/contacto.html">CONTACTO</a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+
+    <!--
     <header class="grid">
         <div class="logito">
             <a href="#"><img class="logo" src="assets/logo.jpg" alt="Logo de Página"></a>
@@ -44,7 +96,7 @@
 
             </ul>
         </nav>
-    </header>
+    </header>-->
 
     <main id="main">
 
@@ -72,7 +124,41 @@
 
         <!--------------------SECCION-AYUDAR----------------------->
 
-        <section id="section-ayudar" class="grid">
+        <div class="row mb-5">
+            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
+                <h2>Ayudanos a Ayudarlos</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
+                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
+                    sit error?</p>
+            </div>
+
+            <img class="lead text-success border col-sm-6 col-md-6" src="./assets/donacion.png" alt="">
+        </div>
+
+        <div class="row mb-5 d-flez flex-row-reverse">
+            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
+                <h2>Adopta un Sanroquito</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
+                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
+                    sit error?</p>
+            </div>
+
+            <img class="lead text-success border  col-sm-6 col-md-6" src="./assets/adoptar.jpg" alt="">
+        </div>
+
+        <div class="row mb-5">
+            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
+                <h2>¿Querés ser Voluntario?</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
+                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
+                    sit error?</p>
+            </div>
+
+            <img class="lead text-success border col-sm-6 col-md-6" src="./assets/serVoluntario.jpg" alt="">
+        </div>
+    </div>
+
+        <!--<section id="section-ayudar" class="grid">
             <div class="title-text animate__animated animate__fadeInLeft">
                 <h2 class="section-subtitles">Ayudanos a Ayudarlos</h2>
                 <p class="secciones">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
@@ -87,7 +173,7 @@
             
         </section>
 
-        <!--------------------SECCION-ADOPTAR----------------------->
+        ------------------SECCION-ADOPTAR-----------------------
 
         <section id="section-adoptar" class="grid">
             <div class="title-text-adoptar animate__animated animate__fadeInRight">
@@ -108,7 +194,7 @@
 
         </section>
 
-        <!--------------------SECCION-VOLUNTARIO----------------------->
+        ------------------SECCION-VOLUNTARIO-----------------------
 
         <section id="section-voluntario" class="grid">
             <div class="title-text animate__animated animate__fadeInLeft">
@@ -125,7 +211,7 @@
                 <img class="foto-voluntario" src="assets/serVoluntario.jpg" alt="foto de voluntarios">
             </div>
             
-        </section>
+        </section>-->
 
 
 
@@ -200,6 +286,11 @@
 
 
 
+
+    <!--Bootstrap script-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+        crossorigin="anonymous"></script>   
 </body>
 
 </html>
