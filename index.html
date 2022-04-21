@@ -7,30 +7,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hogar san Roque</title>
     <!--ANIMATE-CSS-->
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <!--stylesheet-->
     <link rel="stylesheet" href="styles/estilos.css">
     <!--Bootsrap CDN Stylesheet-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    
+
 </head>
 
 <body>
     <!-------------------HEADER Y MENU------------------->
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="nav-bg"></div>
+        <nav class="navbar navbar-expand-lg ">
             <div class="container-fluid">
                 <!---- LOGO --->
-                <a class="navbar-brand" href="#"><img src="./assets/logo.jpg" alt="Logo de página"></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-                    aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <a class="navbar-brand" href="#">
+                    <img src="./assets/logo.jpg" alt="Logo de página" width="150" height="85"
+                        class="d-inline-block align-text-top">
+                </a>
+
+                <button class="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <!--- MENU-ITEMS --->
-                <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNavDropdown">
+                <div class="collapse navbar-collapse navbar-light d-flex justify-content-end" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item me-2">
                             <a class="nav-link active" aria-current="page" href="#">INICIO</a>
@@ -46,7 +50,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li><a class="dropdown-item" href="./pages/donaciones.html">Donaciones</a></li>
                                 <li><a class="dropdown-item" href="./pages/voluntario.html">Ser Voluntario</a></li>
-                                
+
                             </ul>
                         </li>
                         <li class="nav-item dropdown me-2">
@@ -61,13 +65,13 @@
                         <li class="nav-item me-2">
                             <a class="nav-link" href="./pages/contacto.html">CONTACTO</a>
                         </li>
-                        
+
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    
+
 
     <!--
     <header class="grid">
@@ -106,15 +110,16 @@
             <div class="bg-image"></div>
             <div class="container-portada ">
                 <h1 class="animate__animated animate__fadeInLeft">!VENÍ A VISITARNOS!</h1>
-                <p class="parrafo-portada animate__animated animate__fadeInLeft">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat eveniet
+                <p class="parrafo-portada animate__animated animate__fadeInLeft">Lorem ipsum, dolor sit amet consectetur
+                    adipisicing elit. Placeat eveniet
                     soluta aut obcaecati
                     quibusdam
                     dolores, fuga quisquam voluptate enim magnam!</p>
-                    <div class="animate__animated animate__fadeInLeft">
-                        <a class="botonLeermas" href="#">LEER MÁS</a>
+                <div class="animate__animated animate__fadeInLeft">
+                    <a class="botonLeermas" href="#">LEER MÁS</a>
 
-                    </div>
-               
+                </div>
+
             </div>
 
 
@@ -123,40 +128,83 @@
         </section>
 
         <!--------------------SECCION-AYUDAR----------------------->
+        <div class="container-fluid">
+            <div class="row mb-5 mt-5">
 
-        <div class="row mb-5">
-            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
-                <h2>Ayudanos a Ayudarlos</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
-                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
-                    sit error?</p>
+                <div class="row m-2 p-3 border">
+
+
+                    <div
+                        class=" col-sm-12 col-lg-6 d-flex flex-column align-self-center lead text-center">
+                        <h2 class="d-flex flex-column align-items-center text-success">Ayudanos a Ayudarlos</h2>
+                        <p class="parrafo-sections mx-3">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Delectus id velit ea dicta modi laboriosam
+                            consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae
+                            quod rem
+                            sit error?
+                        </p>
+                    </div>
+
+
+                    <div class="col-lg-6 d-flex flex-column align-items-center mt-4">
+                        <a href="/quiero-ayudar/donaciones.html"><img src="/assets/donacion.png"
+                                alt="Link en imagen para donar" width="220" height="220"></a>
+                    </div>
+                </div>
+
+                <!--<div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6 col-lg-6">
+                        <h2>Ayudanos a Ayudarlos</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
+                            consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
+                            sit error?</p>
+                    </div>
+        
+                    <img class="lead text-success border col-sm-6 col-md-6 col-lg-6" src="./assets/donacion.png" alt="Link para donar" width="220" height="220">-->
             </div>
 
-            <img class="lead text-success border col-sm-6 col-md-6" src="./assets/donacion.png" alt="">
-        </div>
+            <!--------------------SECCION-ADOPTAR----------------------->
+            <div class="row mb-5 d-flex flex-row-reverse border p-3">
+                <div
+                    class="lead   col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
+                    <h2 class="text-success">Adopta un Sanroquito</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi
+                        laboriosam
+                        consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod
+                        rem
+                        sit error?</p>
+                        <div class="d-flex justify-content-center">
+                            <a class="btn btn-primary d-flex justify-content-center align-items-center" href="#" role="button">¡Adoptar!</a> 
+                        </div>
+                           
+                </div>
 
-        <div class="row mb-5 d-flez flex-row-reverse">
-            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
-                <h2>Adopta un Sanroquito</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
-                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
-                    sit error?</p>
+                <img class="lead text-success col-sm-6 col-md-6" src="./assets/adoptar.jpg" alt="foto adoptar" width="300" height="250">
             </div>
 
-            <img class="lead text-success border  col-sm-6 col-md-6" src="./assets/adoptar.jpg" alt="">
-        </div>
 
-        <div class="row mb-5">
-            <div class="lead text-success border col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
-                <h2>¿Querés ser Voluntario?</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi laboriosam
-                    consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod rem
-                    sit error?</p>
+            <!--------------------SECCION-VOLUNTARIO----------------------->
+            <div class="row mb-5 border p-3">
+                <div
+                    class="lead col-sm-12 text-center d-flex flex-column justify-content-center  col-sm-6 col-md-6">
+                    <h2 class="text-success">¿Querés ser Voluntario?</h2>
+                    <p class="text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus id velit ea dicta modi
+                        laboriosam
+                        consequatur aut, ipsa accusantium recusandae odit dolorum beatae blanditiis ducimus quae quod
+                        rem
+                        sit error?</p>
+                    
+                        <div class="d-flex justify-content-center">
+                            <a class="btn btn-primary d-flex justify-content-center align-items-center" href="#" role="button">Ser Voluntario</a> 
+                        </div>   
+                </div>
+                
+                    <img class="lead text-success col-sm-6 col-md-6" src="./assets/serVoluntario.jpg" alt="foto voluntario" width="200" height="250">
+                
+                
             </div>
-
-            <img class="lead text-success border col-sm-6 col-md-6" src="./assets/serVoluntario.jpg" alt="">
         </div>
-    </div>
+        </div>
+
 
         <!--<section id="section-ayudar" class="grid">
             <div class="title-text animate__animated animate__fadeInLeft">
@@ -226,11 +274,11 @@
         <section class=" sections-footer-uno">
             <div class="foot">
                 <h4>CONTACTO</h4>
-            <ul class="phone-address">
-                <li><a href=""><img class="logo-wpp" src="assets/logoWhatsapp.png" alt="logo de Whatsapp"></a></li>
-                <li><a href="#">Email: hogarsanroque@gmail.com</a></li>
-                <li><a href="#">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
-            </ul>
+                <ul class="phone-address">
+                    <li><a href=""><img class="logo-wpp" src="assets/logoWhatsapp.png" alt="logo de Whatsapp"></a></li>
+                    <li><a href="#">Email: hogarsanroque@gmail.com</a></li>
+                    <li><a href="#">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
+                </ul>
             </div>
 
         </section>
@@ -239,36 +287,37 @@
         <section class=" sections-footer-dos">
             <div class="foot">
                 <h4>SEGUINOS</h4>
-            <ul class="redes">
-                <li><a href="#"><img src="assets/instagram.png" alt="instagram"></a></li>
-                <li><a href="#"><img src="assets/facebook.png" alt="facebook"></a></li>
-                <li><a href="#"><img src="assets/twitter.png" alt="twitter"></a></li>
-            </ul>
+                <ul class="redes">
+                    <li><a href="#"><img src="assets/instagram.png" alt="instagram"></a></li>
+                    <li><a href="#"><img src="assets/facebook.png" alt="facebook"></a></li>
+                    <li><a href="#"><img src="assets/twitter.png" alt="twitter"></a></li>
+                </ul>
             </div>
-            
+
         </section>
         <!-----------------Sección-Novedades-Footer------------------>
         <section class=" sections-footer-tres">
             <div class="foot">
                 <h4>NOVEDADES</h4>
-            <p class="news-text">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
-                recibís en tu email
-                mensualmente.</p>
+                <p class="news-text">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y
+                    la
+                    recibís en tu email
+                    mensualmente.</p>
 
-            <form action="#">
-                <label class="novedades" for="info personal"></label>
-                <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
-                <input class="btn-send" type="submit" value=" Enviar "></input>
-                <div>
-                    <input class="novedades" type="checkbox" name="news for user" id="novedades">
-                    <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
-                </div>
+                <form action="#">
+                    <label class="novedades" for="info personal"></label>
+                    <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
+                    <input class="btn-send" type="submit" value=" Enviar "></input>
+                    <div>
+                        <input class="novedades" type="checkbox" name="news for user" id="novedades">
+                        <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
+                    </div>
 
 
 
-            </form>
+                </form>
             </div>
-            
+
         </section>
 
     </footer>
@@ -290,7 +339,7 @@
     <!--Bootstrap script-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>   
+        crossorigin="anonymous"></script>
 </body>
 
 </html>

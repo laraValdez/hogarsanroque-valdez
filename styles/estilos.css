@@ -11,17 +11,25 @@ body{
 }
 /*--------------HEADER---------------*/
 
-.logo{
+/*.logo{
     width: 180px;
     height: 100px;
-}
+}*/
 header{
     background-color: rgb(196, 218, 172);
     width: 100%;
     height: auto;
 }
 
+.nav-bg{
+    background-color: #649173;;
+}
 
+li > a{
+    font-family: 'Bebas Neue', cursive;
+    font-size:1.2rem ;
+  
+}
 .menu .item{
     list-style: none;
     
@@ -142,11 +150,11 @@ color: white;
 
 
 /*-------------SECCION-ADOPTAR----------------*/
-.foto-adoptar{
+/*.foto-adoptar{
     width: 100%;
     height: auto;
    
-}
+}*/
 
 #section-adoptar{
     background-color: rgb(242,193,117);
@@ -192,6 +200,10 @@ color: white;
     justify-content: space-around;
     align-items: center;
     height: 220px;
+}
+
+h4{
+    text-align: center;
 }
 
 /*---------------Sección-Contacto-Footer----------------*/
@@ -855,6 +867,7 @@ background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 
 /*##############-------html-contacto--------##############*/
     .body-contact{
         background-color: bisque;
+        text-align: center;
     }
 
     header{
@@ -865,11 +878,12 @@ background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 
 
 
 
-    /*#form-contacto*/fieldset{
+    /*#form-contacto*/
+    /*fieldset{
         background-color: rgb(228, 189, 189);
         margin-bottom: 30px;
         
-    }
+    }*/
 
     h2{
         font-family: 'Plus Jakarta Sans', sans-serif;
@@ -881,7 +895,7 @@ background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 
         margin: 15px;
         color: black;
     }
-
+/*
     legend{
         font-family: 'Plus Jakarta Sans', sans-serif;
         font-size: 1.5rem;
@@ -933,7 +947,7 @@ background: linear-gradient(90deg, rgba(200,228,183,1) 14%, rgba(135,179,157,1) 
         grid-column: 2/4;
         margin-left: 14em;
       
-    }
+    }*/
 
 /*font-family: 'Bebas Neue', cursive;
 font-family: 'Libre Franklin', sans-serif;
