@@ -6,10 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hogar san Roque</title>
-    <!--ANIMATE-CSS-->
-    <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <!--AOS ANIMATE-CSS-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!--stylesheet-->
     <link rel="stylesheet" href="styles/estilos.css">
     
@@ -20,11 +18,9 @@
     <!-------------------HEADER Y MENU------------------->
     <header class="grid">
         <div class="logito">
-            <a href="#"><img class="logo" src="assets/logo.jpg" alt="Logo de Página"></a>
+            <a href="#"><img class="logo" src="./assets/logo.jpg" alt="Logo de Página"></a>
         </div>
         <nav class="menu">
-            
-
             <ul class="menu-items">
                 <li class="item"><a href="#">Inicio</a></li>
                 <li class="item"><a href="pages/quienes-somos.html">Quiénes somos</a></li>
@@ -52,13 +48,18 @@
 
         <section id="section-portada" class="grid">
             <div class="bg-image"></div>
-            <div class="container-portada ">
-                <h1 class="animate__animated animate__fadeInLeft">!VENÍ A VISITARNOS!</h1>
-                <p class="parrafo-portada animate__animated animate__fadeInLeft">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat eveniet
+            <div class="container-portada">
+                <h1 data-aos="fade-right"data-aos-offset="400"
+                data-aos-easing="ease-in-sine">!VENÍ A VISITARNOS!</h1>
+                <p class="parrafo-portada" data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat eveniet
                     soluta aut obcaecati
                     quibusdam
                     dolores, fuga quisquam voluptate enim magnam!</p>
-                    <div class="animate__animated animate__fadeInLeft">
+                    <div data-aos="fade-right"
+                    data-aos-offset="200"
+                    data-aos-easing="ease-in-sine">
                         <a class="botonLeermas" href="#">LEER MÁS</a>
 
                     </div>
@@ -71,16 +72,22 @@
         </section>
 
         <!--------------------SECCION-AYUDAR----------------------->
-        <section id="section-ayudar" class="grid">
-            <div class="title-text animate__animated animate__fadeInLeft">
-                <h2 class="section-subtitles">Ayudanos a Ayudarlos</h2>
-                <p class="secciones">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
+        <section id="section-ayudar" class="grid" >
+            <div class="title-text">
+                <h2 class="section-subtitles" data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Ayudanos a Ayudarlos</h2>
+                <p class="secciones" data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
                     quae
                     quaerat nulla quibusdam ipsa, eius unde animi consequatur autem in rerum exercitationem alias
                     corrupti.</p>
             </div>
 
-            <div class="title-text">
+            <div class="title-text"data-aos="fade-left"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine">
                 <a href="#"><img class="foto-donar" src="./assets/donacion.png" alt="Boton para donar"></a>
             </div>
             
@@ -89,9 +96,13 @@
        <!------------------SECCION-ADOPTAR----------------------->
 
         <section id="section-adoptar" class="grid">
-            <div class="title-text-adoptar animate__animated animate__fadeInRight">
-                <h2 class="section-subtitles">Adopta un Sanroquito</h2>
-                <p class="secciones">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
+            <div class="title-text-adoptar">
+                <h2 class="section-subtitles" data-aos="fade-left"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Adopta un Sanroquito</h2>
+                <p class="secciones" class="section-subtitles" data-aos="fade-left"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
                     quae
                     quaerat nulla quibusdam ipsa, eius unde animi consequatur autem in rerum exercitationem alias
                     corrupti.</p>
@@ -100,7 +111,9 @@
             </div>
 
             
-                <div class="title-text-adoptar"><img class="foto-adoptar" src="assets/adoptar.jpg" alt="foto de adopción"></div>
+                <div class="title-text-adoptar" >
+                    <img class="foto-adoptar " src="assets/adoptar.jpg" alt="foto de adopción">
+                </div>
             
             
             
@@ -110,9 +123,13 @@
         <!------------------SECCION-VOLUNTARIO----------------------->
 
         <section id="section-voluntario" class="grid">
-            <div class="title-text animate__animated animate__fadeInLeft">
-                <h2 class="section-subtitles">¿Querés ser voluntario?</h2>
-                <p class="secciones">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
+            <div class="title-text">
+                <h2 class="section-subtitles" class="section-subtitles" data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">¿Querés ser voluntario?</h2>
+                <p class="secciones" class="section-subtitles" data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine">Lorem ipsum dolor, sit amet consectetur adiiunt tempore eum perspiciatis
                     quae
                     quaerat nulla quibusdam ipsa, eius unde animi consequatur autem in rerum exercitationem alias
                     corrupti.</p>
@@ -120,8 +137,10 @@
                     <a href="#" class="btn">¡Quiero ser Voluntario!</a>
             </div>
 
-            <div class="title-text">
-                <img class="foto-voluntario" src="assets/serVoluntario.jpg" alt="foto de voluntarios">
+            <div class="title-text" class="section-subtitles" data-aos="fade-left"
+            data-aos-offset="300"
+            data-aos-easing="ease-in-sine">
+                <img class="foto-voluntario  animate__animated animate__fadeInRight" src="assets/serVoluntario.jpg" alt="foto de voluntarios">
             </div>
             
         </section>
@@ -134,15 +153,15 @@
 
     <!----------------FOOTER------------------>
 
-    <footer id="main-footer" class="grid">
+    <footer id="main-footer" class="grid ">
         <!---------------Sección-Contacto-Footer-------------------->
         <section class=" sections-footer-uno">
-            <div class="foot">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>CONTACTO</h4>
             <ul class="phone-address">
-                <li><a href=""><img class="logo-wpp" src="assets/logoWhatsapp.png" alt="logo de Whatsapp"></a></li>
-                <li><a href="#">Email: hogarsanroque@gmail.com</a></li>
-                <li><a href="#">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
+                <li><a href="#" class="animate__animated animate__fadeInDown">Email: hogarsanroque@gmail.com</a></li>
+                <li><a href="#" class="animate__animated animate__fadeInDown">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
             </ul>
             </div>
 
@@ -150,9 +169,10 @@
 
         <!----------------Sección-Redes-Footer------------------->
         <section class=" sections-footer-dos">
-            <div class="foot">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>SEGUINOS</h4>
-            <ul class="redes">
+            <ul class="redes animate__animated animate__fadeInDown">
                 <li><a href="#"><img src="assets/instagram.png" alt="instagram"></a></li>
                 <li><a href="#"><img src="assets/facebook.png" alt="facebook"></a></li>
                 <li><a href="#"><img src="assets/twitter.png" alt="twitter"></a></li>
@@ -162,13 +182,14 @@
         </section>
         <!-----------------Sección-Novedades-Footer------------------>
         <section class=" sections-footer-tres">
-            <div class="foot">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>NOVEDADES</h4>
-            <p class="news-text">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
+            <p class="news-text animate__animated animate__fadeInDown">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
                 recibís en tu email
                 mensualmente.</p>
 
-            <form action="#">
+            <form action="#" class="animate__animated animate__fadeInDown">
                 <label class="novedades" for="info personal"></label>
                 <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
                 <input class="btn-send" type="submit" value=" Enviar "></input>
@@ -184,6 +205,9 @@
             
         </section>
 
+        <div>
+            <a href=""><img class="logo-wpp" src="./assets/logoWhatsapp.png" alt="logo de Whatsapp"></a>
+        </div>
     </footer>
 
 
@@ -198,8 +222,11 @@
 
 
 
-
-
+    <!--ANIMATION SCRIPT-->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
     
 </body>
 

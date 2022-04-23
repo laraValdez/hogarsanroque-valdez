@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Donaciones</title>
-
+     <!--AOS ANIMATE-CSS-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!--stylesheet-->
     <link rel="stylesheet" href="../styles/estilos.css">
 </head>
@@ -43,38 +44,41 @@
 
     <footer id="main-footer" class="grid">
         <!---------------Sección-Contacto-Footer-------------------->
-        <section class="sections-footer-uno">
-            <div class="foot">
+        <section class=" sections-footer-uno">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>CONTACTO</h4>
             <ul class="phone-address">
-                <li><a href=""><img class="logo-wpp" src="../assets/logoWhatsapp.png" alt="logo de Whatsapp"></a></li>
-                <li><a href="#">Email: hogarsanroque@gmail.com</a></li>
-                <li><a href="#">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
+                <li><a href="#" class="animate__animated animate__fadeInDown">Email: hogarsanroque@gmail.com</a></li>
+                <li><a href="#" class="animate__animated animate__fadeInDown">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
             </ul>
             </div>
 
         </section>
 
         <!----------------Sección-Redes-Footer------------------->
-        <section class="sections-footer-dos">
-            <div class="foot">
+        <section class=" sections-footer-dos">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>SEGUINOS</h4>
-            <ul class="redes">
+            <ul class="redes animate__animated animate__fadeInDown">
                 <li><a href="#"><img src="../assets/instagram.png" alt="instagram"></a></li>
                 <li><a href="#"><img src="../assets/facebook.png" alt="facebook"></a></li>
                 <li><a href="#"><img src="../assets/twitter.png" alt="twitter"></a></li>
             </ul>
             </div>
+            
         </section>
         <!-----------------Sección-Novedades-Footer------------------>
-        <section class="sections-footer-tres">
-            <div class="foot">
+        <section class=" sections-footer-tres">
+            <div class="foot" data-aos="fade-up"
+            data-aos-anchor-placement="top-bottom">
                 <h4>NOVEDADES</h4>
-            <p class="news-text">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
+            <p class="news-text animate__animated animate__fadeInDown">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
                 recibís en tu email
                 mensualmente.</p>
 
-            <form action="#">
+            <form action="#" class="animate__animated animate__fadeInDown">
                 <label class="novedades" for="info personal"></label>
                 <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
                 <input class="btn-send" type="submit" value=" Enviar "></input>
@@ -87,10 +91,22 @@
 
             </form>
             </div>
+            
         </section>
 
+        <div>
+            <a href=""><img class="logo-wpp" src="../assets/logoWhatsapp.png" alt="logo de Whatsapp"></a>
+        </div>
     </footer>
 
+
+
+
+    <!--ANIMATION SCRIPT-->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
 </body>
 
 </html>
