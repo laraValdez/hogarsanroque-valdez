@@ -1,0 +1,31 @@
+main .container-fluid .card .card-body .card-title {
+  color: #e6c07b;
+  font: "Plus Jakarta Sans", sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  text-shadow: 2px 2px #635c5c;
+}
+
+main .container-fluid .card .card-body .card-text {
+  font: "Plus Jakarta Sans", sans-serif;
+}
+
+main form .bold {
+  font-weight: bold;
+  color: #2d2e2e;
+}
+
+main form fieldset legend {
+  font-weight: bold;
+}
+
+@media (max-width: 425px) {
+  .body-contact {
+    text-align: center;
+  }
+}
+
+footer h4 {
+  text-align: center;
+}
+/*# sourceMappingURL=adoptar.css.map */
