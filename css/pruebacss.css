@@ -33,3 +33,71 @@ footer h4 {
 
 main .nota-yt {
   margin: 1.2rem; }
+
+.seczion__Arial {
+  color: #ecec5d;
+  font-family: Arial; }
+
+.seczion__Verdana {
+  color: #b0e965;
+  font-family: Verdana; }
+
+.seczion__Helvetica {
+  color: #9cdee7;
+  font-family: Helvetica; }
+
+.secciones, .secciones-adoptar, .secciones-voluntario {
+  color: white;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.1rem;
+  padding-bottom: 20px; }
+
+.secciones-adoptar {
+  color: rgba(57, 122, 92, 0.986);
+  font-weight: bold; }
+
+.secciones-voluntario {
+  color: #f5ea8a;
+  font-weight: bold; }
+
+.contact-title {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: #e6c07b;
+  font-weight: bold;
+  text-shadow: 2px 2px #635c5c;
+  text-align: center; }
+
+.marcos {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.marco1 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.marco2 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.marco3 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }

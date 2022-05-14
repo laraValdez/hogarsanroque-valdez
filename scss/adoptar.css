@@ -1,13 +1,17 @@
+.body-contact {
+  background-color: bisque;
+}
+
 main .container-fluid .card .card-body .card-title {
   color: #e6c07b;
-  font: "Plus Jakarta Sans", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 2rem;
   font-weight: bold;
   text-shadow: 2px 2px #635c5c;
 }
 
 main .container-fluid .card .card-body .card-text {
-  font: "Plus Jakarta Sans", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
 }
 
 main form .bold {
@@ -27,5 +31,9 @@ main form fieldset legend {
 
 footer h4 {
   text-align: center;
+}
+
+main .nota-yt {
+  margin: 1.2rem;
 }
 /*# sourceMappingURL=adoptar.css.map */

@@ -1,0 +1,46 @@
+$page-title-fonts: 'Plus Jakarta Sans', sans-serif;
+
+@mixin cuadrado{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    background-color: rgb(167, 224, 205);
+    border-radius: 15px;
+}
+
+@mixin centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-title{
+    font-family: $page-title-fonts;
+    color: rgb(230, 192, 123);
+    font-weight: bold;
+    text-shadow: 2px 2px rgb(99, 92, 92);
+    text-align: center
+}
+
+.marcos{
+    @include centrado;
+}
+
+.marco1{
+    @include cuadrado;
+    @include centrado;
+    
+    
+}
+
+.marco2{
+    @include cuadrado;
+    @include centrado;
+    
+}
+
+.marco3{
+    @include cuadrado;
+    @include centrado;
+   
+}

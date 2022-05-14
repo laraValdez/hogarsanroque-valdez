@@ -1,0 +1,13 @@
+$titles:(
+    Arial: rgb(236, 236, 93),
+    Verdana: rgb(176, 233, 101),
+    Helvetica: rgb(156, 222, 231),
+);
+
+@each $font, $color in $titles {
+    .seczion__#{$font}{
+        color: #{$color};
+        font-family:#{$font};
+    }
+
+}

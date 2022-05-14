@@ -1,0 +1,19 @@
+.secciones{
+    color: white;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.1rem;
+    padding-bottom: 20px;
+    
+}
+
+.secciones-adoptar{
+    @extend .secciones;
+    color: rgba(57, 122, 92, 0.986);
+    font-weight: bold;
+}
+
+.secciones-voluntario{
+    @extend .secciones;
+    color: rgb(245, 234, 138);
+    font-weight: bold;
+}
