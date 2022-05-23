@@ -1,0 +1,1082 @@
+01:05:49	Braian Esmoli:	buen dia
+01:05:52	Santiago Olivetto:	buenaas
+01:05:52	[Tutora] Luna Bartolozzi:	buen dia!!!
+01:06:09	Braian Esmoli:	como hago para activar el audio de la llamada, no escucho el zoom
+01:06:41	[Tutora] Luna Bartolozzi:	braian en la parte del microfono, en la barra de abajo
+01:06:54	[Tutora] Melisa Ferreyra:	Braian fijate en el icono de zoom en la parte de abajo. la sección de sonido. o el icono de sonido!!
+01:08:38	Braian Esmoli:	gracias ahi ta jaja
+01:08:45	Cecilia Fitz Patrick:	mortal!
+01:09:08	Elias Ezequiel Prado:	perfecto
+01:09:42	Rocio Yepes:	Super util la ultima after class. Muy clara.
+01:09:55	Melldy Monteverde:	muy buena!
+01:10:00	Lucas Ezequiel Ugazio:	yo todavía estoy con flexbox haha, esta semana me pongo con los grids
+01:10:00	facundo chavero:	si perdón profe, tenia que cursar a esa hora
+01:10:02	facundo chavero:	la voy a ver
+01:10:32	Francisco Murua Leoni:	la master es como un after? Osea, no suma puntos. Pregunto pq no se si voy a poder entrar
+01:10:55	(coordinador) Federico Castro:	Sisi, la diferencia es que en la master vemos todos los temas hasta el momento
+01:11:07	Fernando Souza:	piola
+01:11:10	Francisco Murua Leoni:	gracias
+01:12:03	Martin Mehrwaldt:	el tal cual quedo la clase pasada cual de los 2 es ?
+01:12:28	[Tutora]Daira Barrios:	el de la clase 7
+01:13:03	Ivo Mendez Kiwacz:	hay que descargar el proyecto de drive?
+01:13:41	francisco cano:	buenas
+01:13:50	francisco cano:	cuando es la masters class
+01:13:53	francisco cano:	??
+01:14:01	Ivo Mendez Kiwacz:	viernes que viene 7hs arg
+01:14:04	francisco cano:	se me bugeo la compu justo ahi
+01:14:14	Ivo Mendez Kiwacz:	pm*
+01:14:36	francisco cano:	gracias
+01:14:46	[Tutor] Jonatan Pereyra:	En animaciones, menos es mas
+01:14:49	[Tutora]Maca Rodriguez:	Muchas veces menos es mas!!!!
+01:14:52	Rodrigo Alday:	buen dia
+01:14:53	Natasha Ocampo:	hola! recién cambié el nombre. por si ya habían pasado asistencia
+01:14:55	Rodrigo Alday:	me dormi
+01:14:57	Rodrigo Alday:	jajaja
+01:14:57	[Tutor] Jonatan Pereyra:	Sean criteriosos a la hora de elegir que animación usar
+01:15:05	[Tutora]Maca Rodriguez:	Hola Rodri!
+01:15:08	[Tutor] Jonatan Pereyra:	Saber usar todas, no quiere decir que TODAS tengan que ser aplicadas
+01:15:18	[Tutora]Daira Barrios:	exacto!!
+01:15:22	Rodrigo Alday:	buen dia maca
+01:15:27	Gaspar Valdés:	buen día!!
+01:15:58	Cristhian Matallana Londoño:	buen dia, ya se esta grabando la clase
+01:16:01	Joaquin Gruffat:	yo lo que estoy aprendiendo bien, es a buscar como hacer algo cuando lo tengo q aplicar, imagino que con el tiempo se iran fijando los conceptos...
+01:16:19	Leandro García Luzzi:	z-index
+01:16:20	Elias Ezequiel Prado:	zindex
+01:16:20	Maximiliano Frias:	z-index
+01:16:42	[Tutora]Maca Rodriguez:	Si joaco… Con el tiempo memorizas mucho, pero también seguís googleando cuando algo no te lo acordas o no lo sabes
+01:17:17	Joaquin Gruffat:	👍
+01:19:41	SELENE BARRIOS CORNEJO:	listo
+01:19:41	Juan Camilo Vallejo:	Listo
+01:19:42	Carlos Matías Garavello:	ok
+01:19:43	Braian Esmoli:	lsito
+01:19:44	Santiago Olivetto:	Listo
+01:19:46	Gustavo Sansotta:	listo!
+01:19:46	Alan Romero:	go
+01:19:46	Leandro García Luzzi:	👍
+01:19:46	Alvaro Ansin Vila:	ok
+01:19:49	Valentino Martinez:	ok
+01:19:50	Elias Ezequiel Prado:	ready
+01:19:51	Fernando Souza:	👍
+01:19:53	Eugenia Tinazzi:	listo!!
+01:19:55	Natanael Rodriguez:	👍
+01:20:14	Ivo Mendez Kiwacz:	tenemos que tener el mismo proyecto suyo?
+01:20:23	Joaquin Gruffat:	es lo mismo poner background: que background-image: y despues el linear-gradient?
+01:20:35	Ivo Mendez Kiwacz:	no lo pude descargar de drive
+01:20:36	Ivo Mendez Kiwacz:	no me deja
+01:21:09	Marcela Acosta:	Profe puede compartir toda la pantalla? Después en la grabación se ve minúsculo el código
+01:21:38	Ivo Mendez Kiwacz:	gracias
+01:21:45	Fernando Souza:	se ve bienm
+01:21:46	Melldy Monteverde:	se ve
+01:21:46	Gonzalo Tey Pinto:	yo veo bien
+01:21:48	Santiago Olivetto:	A mi perfecto
+01:21:49	Alejo Coronel:	se ve bien
+01:21:49	Fernando Emanuel Peralta:	se ve bien
+01:21:50	Michael Seitz:	10 puntos
+01:21:54	Maximiliano Frias:	se ve re bien
+01:21:56	Marcela Acosta:	Queda la pantalla chiquita como un cuadrado en la grabación pero está bien
+01:21:56	Braian Esmoli:	lo veo de 10, sirve para poner la pantalla a un costado
+01:21:58	Eugenia Maeder:	ahi esta mejor
+01:22:01	Martin Mehrwaldt:	nono como antes porfa
+01:22:07	Ana Barrientos:	Ahí no vemos toda la línea
+01:22:11	Juan Camilo Vallejo:	Dejala como siempre
+01:22:12	Alejo Coronel:	como antes porque se corta el codigo
+01:22:13	Fernando Souza:	claro no se ve bien el codigo
+01:22:18	Santiago Olivetto:	Para que sea mas grande se puede corer el folder
+01:22:24	SELENE BARRIOS CORNEJO:	yo creo que seria mejor que se oculte el exploer
+01:22:26	Santiago Olivetto:	correr*
+01:22:37	Eugenia Maeder:	capaz ocultando las carpetas y archivos de la izquierda en el visual
+01:23:21	katherine alicia castrejon rodriguez:	me recuerdan que significa hover
+01:23:30	Fernando Emanuel Peralta:	se ve bien el código ahí, como siempre
+01:23:31	katherine alicia castrejon rodriguez:	hover:?
+01:24:09	[tutora] Camille Pittaluga:	hover es cuando pasàs el moouse por arriba, sin clickear
+01:24:11	Ana Barrientos:	Hover, es lo que pasa cuando pasas el cursor por encima
+01:24:14	Braian Esmoli:	sirve para dar un efecto al elemento que lo aplicas cuando se pasa el mouse x encima
+01:24:14	[Tutora]Maca Rodriguez:	Katy hover es una psudoclase que se le aplica para que (en este caso) haga algo cuando el mouse pase por encima...
+01:24:17	[Tutora] Melisa Ferreyra:	:hover
+01:24:21	Fernando Emanuel Peralta:	sirve para que cuando pases el mouse por encima del elemento se aplica el esyilo
+01:24:25	Carlos Durán Fuentes:	juego de sombras
+01:24:43	[Tutora]Maca Rodriguez:	Hay una clase donde vamos a ver mas a fondo pseudoclases, esta y otras!
+01:25:15	Martin Mehrwaldt:	profe después cuando tenga un segundo puede mostrar el nombre del tema que usa por favor
+01:25:29	Fernando Souza:	se le puede poner mas colores ?
+01:25:40	Fernando Souza:	piola
+01:25:44	Maximiliano Frias:	oaaaaaaaa
+01:25:46	Martin Mehrwaldt:	el linear gradient con un transition puede quedar muy bienj
+01:25:46	Maximiliano Frias:	buenaso
+01:26:01	Agustina Figallo:	ya no me salio jajaj
+01:26:47	Ana Barrientos:	Apoyo lo de Martin, también quiero saber eso! Yo me canse de buscar y no encuentro un theme que separe así. Esta bueno
+01:26:54	Maximiliano Frias:	https://cssgradient.io
+01:26:59	Elias Ezequiel Prado:	sii
+01:27:00	Lautaro Portal:	Sisi
+01:27:01	Rocio Yepes:	Si, pude
+01:27:02	Elias Ezequiel Prado:	salio
+01:27:03	Myrthala Wong:	sí
+01:27:03	Maximiliano Frias:	esa pagina me encanta para hacer eso
+01:27:04	Leandro Borda:	sisi
+01:27:11	Michael Seitz:	body
+01:27:20	Rocio Yepes:	main
+01:27:23	Gonzalo Tey Pinto:	body
+01:27:30	Martin Mehrwaldt:	poxima entrega *todos los títulos con gradient*
+01:27:37	Maximiliano Frias:	jajajaja
+01:27:50	Carlos Matías Garavello:	quizás en los botones se podría poner para darle un efecto 3d
+01:28:02	Agustina Figallo:	no me sale, será q mi compu no es compatible?
+01:28:14	Maximiliano Frias:	que navegador usas?
+01:28:25	Martin Mehrwaldt:	y que theme usas
+01:28:56	[TUTORA] Julieta Romano:	Les comparto una página con ejemplos de sombras :)
+01:28:56	Ana Barrientos:	😹
+01:28:57	[TUTORA] Julieta Romano:	https://getcssscan.com/css-box-shadow-examples
+01:29:36	[Tutora] Melisa Ferreyra:	Muy buena esa página Juli, no la conocia. Gracias!!!
+01:29:59	(coordinador) Federico Castro:	Todo lo que veamos en este clase no es necesario que lo incluyan a su proyecto, siempre recuerden “menos es mas”, se busca que esto sume por eso, pueden probar todo lo que vemos pero finalmente usan lo que realmente necesiten para los trabajos finales 😄 la idea es no terminar con la pagina de Homero Simpson jajaja
+01:30:16	Jonatan Céspedes:	https://www.w3schools.com/css/css3_gradients.asp
+01:30:20	Martin Mehrwaldt:	mi trabajo tiene gradiant y ni sabia que lo íbamos a ver recién ahora
+01:31:01	Michael Seitz:	Yo casi uso transition en botones en mi css. Pero vi que era de esta clase y quise no incluirlo
+01:31:12	Maximiliano Frias:	me hace acordar a los foros de los 2000
+01:31:14	Michael Seitz:	hover y transition
+01:31:14	Maximiliano Frias:	jajajaja
+01:31:15	Ana Barrientos:	Es un montón
+01:31:23	Jonatan Céspedes:	https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/radial-gradient
+01:31:42	Joaquin Gruffat:	https://uigradients.com/
+01:32:16	Michael Seitz:	Con footer
+01:32:17	Michael Seitz:	directo
+01:32:50	Santiago Olivetto:	rdy
+01:32:52	Michael Seitz:	sisi
+01:34:32	Martin Mehrwaldt:	quedo waso
+01:34:49	Gaspar Valdés:	uff muy bueee!
+01:35:01	Agustina Figallo:	no se me ve
+01:35:11	Carlos Durán Fuentes:	si le colocas porcentajes a los colores ajustas el tamaño que afecta sobre la caja :v
+01:35:20	Santiago Olivetto:	capas te olvidaste las comas entre los colores
+01:35:24	Agustina Figallo:	no no
+01:35:30	Maximiliano Frias:	que navegador usas agus?
+01:35:46	Agustina Figallo:	crhome
+01:36:00	Gonzalo Tey Pinto:	closest
+01:36:05	Gonzalo Tey Pinto:	esta en superlativo profe
+01:36:05	Maximiliano Frias:	que raro
+01:36:09	Cecilia Fitz Patrick:	esta mal escrito porfe
+01:36:17	Myrthala Wong:	¿no hay que comentar el anterior?
+01:36:18	Leandro Borda:	te falta una s
+01:37:15	LUCIANO HAWILA:	muchos colores en pantalla jaja
+01:37:57	Jonatan Céspedes:	background: radial-gradient(circle at 100%, rgb(114, 114, 166), transparent);
+01:38:05	Jonatan Céspedes:	/*  background: radial-gradient(rgb(114, 114, 166), rgb(142, 103, 142));  background: radial-gradient(closest-side, rgb(114, 114, 166), rgb(142, 103, 142), rgb(144, 144, 124)); */
+01:39:48	Jonatan Céspedes:	background: radial-gradient(ellipse at top, rgb(114, 114, 166), transparent),              radial-gradient(ellipse at top, rgb(162, 109, 175), transparent);
+01:40:17	Martin Mehrwaldt:	profe muestre el código un segundo mas porfa}
+01:40:22	LUCIANO HAWILA:	Es ellipse o eclipse?
+01:40:34	LUCIANO HAWILA:	Ok.
+01:41:11	Milagros Gardiol:	que buenas herramientas
+01:41:27	Gaspar Valdés:	excelente
+01:41:37	Elias Ezequiel Prado:	clave esas tool quedo como un pro jjaja
+01:41:37	Maximiliano Frias:	esta buenisimo
+01:41:43	[TUTORA] Julieta Romano:	Siisi les lo mas
+01:41:50	[Tutora]Maca Rodriguez:	Usen los colores que eligieron para la paleta de colores... Que no quede como colgado el gadiente!
+01:41:51	Maximiliano Frias:	clave
+01:42:08	[Tutor] Jonatan Pereyra:	Recuerden no poner muchos colores tampoco, sean sutiles
+01:42:38	(tutor) Lucas Montero:	Para quienes todavia no tienen paleta de color definida… https://color.adobe.com/es/explore
+01:42:39	Gonzalo Tey Pinto:	Facebook también por lo que veo
+01:42:48	Juan Martin Grasso:	menos gusto que gelatina sin sabor
+01:44:10	Ana Barrientos:	jajajaj
+01:49:03	Gonzalo Tey Pinto:	z index
+01:49:34	Agustina Figallo:	como hace para mover sin cortar y pegar?
+01:49:53	Francisco Murua Leoni:	le puse 100k al z index y se superpuso
+01:49:56	Daniel Avila:	control apretado y flecha para arriba o para abajo Agustina
+01:50:03	Milagros Gardiol:	alt + abajo/arriba
+01:50:04	Agustina Figallo:	gracias!
+01:50:05	Carlos Matías Garavello:	transparent
+01:50:16	Lucas Ezequiel Ugazio:	Jony, esta propiedad css se usa con JavaScript?
+01:53:01	Michael Seitz:	Ahí se pone en el ítem hover no?
+01:53:06	[Tutor] Jonatan Pereyra:	rotate es de las animaciones mas copadas que hay
+01:53:09	Michael Seitz:	Cuando le pasas la manito por arriba, rota?
+01:53:10	[Tutora]Daira Barrios:	Aca les dejo una pagina en donde hay varias trasformaciones ! https://animista.net/play/basic/rotate
+01:53:28	Alan Romero:	vale mas la pena usar en el hover no?
+01:53:37	Rocio Yepes:	Queda como la pagina de Homero jeje
+01:53:43	[Tutora]Daira Barrios:	Si jajaj
+01:53:57	[TUTORA] Julieta Romano:	Jaja si, no hay que excederse
+01:53:57	Elias Ezequiel Prado:	messirve epico
+01:59:13	(tutor) Lucas Montero:	Acá tienen mucho más ejemplos que se pueden resolver solo con css y hasta les deja el código para que se lo lleven 👀 https://www.minimamente.com/project/magic/
+01:59:48	Francisco Reyes:	buenísima esa página
+02:00:26	Joaquin Gruffat:	paaa, me cuekgo viendo los efectos jajaja
+02:00:36	Rocio Yepes:	Salgo un sec y vuelvo. Por si cuentan la asistencia.
+02:00:39	Lucas Ezequiel Ugazio:	que paso?
+02:00:50	Lucas Ezequiel Ugazio:	recreo?
+02:00:52	(tutor) Lucas Montero:	Ahi vuelve el profe
+02:00:58	(coordinador) Federico Castro:	El profe fue a buscar agua
+02:01:00	Leandro Borda:	nono fue a tomar agua
+02:01:01	[Tutora]Maca Rodriguez:	Cómo vienen hasta ahora??
+02:01:07	Fernando Souza:	esta re bueno
+02:01:07	Martin Mehrwaldt:	de diez
+02:01:09	Fernando Souza:	:D
+02:01:12	Lucas Ezequiel Ugazio:	mañana arranco con grid
+02:01:15	[tutora] Camille Pittaluga:	esta clase es re divertida jaj
+02:01:17	Fernando Souza:	😁
+02:01:18	Eugenia Maeder:	quiero tirar mi pagina a la basura y arrancar de nuevo jaja
+02:01:18	Lucas Ezequiel Ugazio:	es re tranqui ESTE tema
+02:01:26	Joaquin Gruffat:	gracias a dioos
+02:01:50	Martin Mehrwaldt:	mientras nada de lo que veamos afecte a la escaloneta todo bien
+02:02:29	(coordinador) Federico Castro:	Recuerden no es necesario colocar en su proyecto, todo lo que vemos en esta clase. Siempre lo que necesiten
+02:02:51	[Tutor] Jonatan Pereyra:	☝️
+02:03:10	Rocio Yepes:	Gracias, Federico!
+02:03:18	[Tutora] Luna Bartolozzi:	traten de no pasarse porque despues dificulta la navegacion tanta animacion
+02:03:59	Carlos Matías Garavello:	como dijeron por ahí queda una gelatina el sitio
+02:04:21	[Tutor] Jonatan Pereyra:	Si, con animaciones especialmente, es importante ser criteriosos en el uso
+02:04:46	[Tutor] Jonatan Pereyra:	Cuando quieran poner una animación, pregúntense, "Que suma esto a mi sitio? Es necesario realmente?"
+02:04:57	LUCIANO HAWILA:	skew que significa=
+02:05:13	[Tutor] Jonatan Pereyra:	Skew es sesgar
+02:05:15	Francisco Reyes:	Hay efectos que se activan con el scroll y no con el mouse
+02:05:35	Maximiliano Frias:	como el scroll reveal
+02:05:37	Nicolás Massimino:	cómo quedó el código del rotate y skew??
+02:05:44	Francisco Reyes:	haaa perfecto
+02:05:48	Maximiliano Frias:	pero eso es js
+02:08:34	[Tutor] Jonatan Pereyra:	Es importante usar valores pequeños
+02:12:51	Carlos Matías Garavello:	revota
+02:18:02	Santiago Olivetto:	por defecto es ease-in no?
+02:20:39	Carlos Matías Garavello:	seee
+02:20:43	facundo chavero:	muy bueno
+02:20:50	Leandro Borda:	si queda zarpado
+02:22:58	Carlos Matías Garavello:	ahora si
+02:23:27	Nicolás Massimino:	hay alguna página para obtener iconos gratuitos? por ejemplo, logos de redes sociales
+02:23:44	[tutora] Camille Pittaluga:	https://fontawesome.com/
+02:23:45	Melldy Monteverde:	Font awesome
+02:23:51	Nicolás Massimino:	gracias!
+02:24:44	Michael Seitz:	Se puede hacer directo solo el crecimiento al texto?
+02:24:49	Michael Seitz:	y dejar el background?
+02:24:54	Melldy Monteverde:	fíjate que tiene una actualización, la versiona 6.1 no te va a dejar usar todos los iconos que tienes en la pag, debes usar de la versión 5.1 para una cuenta gratis... si usas cuenta premiun  puedes usar los iconos de versión 6.1
+02:30:26	Martin Mehrwaldt:	ctrl y que?
+02:30:32	Santiago Olivetto:	d
+02:30:32	Juan Ercole:	D
+02:30:35	Juan Camilo Vallejo:	d
+02:30:55	Elias Ezequiel Prado:	noooo que bueno
+02:32:37	Carlos Matías Garavello:	muy bueno
+02:32:52	Jonatan Céspedes:	.aumentar {    transition: all 0.5s ease-in;  }  .aumentar:hover {    transform: scale(1.2);    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);  }
+02:33:30	Myrthala Wong:	puedes poner el html de gallery tantito?
+02:35:06	Ivo Mendez Kiwacz:	luego podrían pasar el código de HTML toda la sección de image que se le modifico con aumentar
+02:36:19	Juan Camilo Vallejo:	<section class="gallery__section--grid" id="grafito">                <h3 class="gallery__section--header">Grafito</h3>                <img src="../assets/images/grafito2.jpg" alt="foto" class="img__1 aumentar">                <img src="../assets/images/grafito1.jpg" alt="foto" class="img__2 aumentar">                <img src="../assets/images/grafito3.jpg" alt="foto" class="img__3 aumentar">                <img src="../assets/images/grafito1.jpg" alt="foto" class="img__4 aumentar">                <img src="../assets/images/grafito2.jpg" alt="foto" class="img__5 aumentar">        </section>
+02:36:43	Myrthala Wong:	gracias!!
+02:36:54	Juan Camilo Vallejo:	te pase la primera section me avisas si te sirve
+02:37:00	Juan Camilo Vallejo:	para pasarte la section 2 y 3
+02:37:03	Juan Camilo Vallejo:	es mucho texto
+02:37:22	Myrthala Wong:	por mi parte, con eso tengo ;) tks
+02:37:30	Juan Camilo Vallejo:	ah ok
+02:38:51	Melldy Monteverde:	seria como invocar funciones en programación no ?
+02:38:58	Melldy Monteverde:	dentro del elemento
+02:41:18	Martin Mehrwaldt:	que significa keyframes?
+02:42:15	[Tutora] Melisa Ferreyra:	https://developer.mozilla.org/es/docs/Web/CSS/@keyframes
+02:42:44	Martin Mehrwaldt:	graciass
+02:43:16	[Tutor] Alejandro Santos:	hola chicos perdón pero tuve que llevar a mi viejo al hospital , se queda ahi , recién pude volver
+02:43:59	Bautista Saggese:	que se mejore💪
+02:44:01	Melldy Monteverde:	🙏
+02:44:19	Carlos Durán Fuentes:	que animación mas rara
+02:44:21	Gaspar Valdés:	uh! pronta recuperación para tu papá! fuerza bro!
+02:44:31	[tutora] Camille Pittaluga:	Ale no te preocupes
+02:44:41	Carlos Matías Garavello:	fuerzas para vos y tu viejo
+02:44:56	Gonzalo Tey Pinto:	🙏
+02:45:02	[Tutor] Alejandro Santos:	Gracias Chicos !!!
+02:45:04	Arsenio Tello:	Ya cae en menos es mas con la animacion
+02:45:10	Juan Martin Grasso:	muy web de los 2000
+02:45:14	Carlos Matías Garavello:	están vailando
+02:45:21	Carlos Matías Garavello:	bailando
+02:45:27	Rocio Yepes:	Mucha suerte con tu papa, Alejandro!!!
+02:45:41	Milagros Gardiol:	se le puede aplicar a alguna imagen png tipo animación del background?
+02:45:45	Rocio Yepes:	Ahi si queda como la web de Homero
+02:45:49	Milagros Gardiol:	como personajes que parezcan que se mueven
+02:45:50	Juan Pastorino:	que le agregue todas las animaciones a mi pagina web dijeron ?
+02:46:16	Lucas Ezequiel Ugazio:	antes era flash
+02:46:17	Melldy Monteverde:	MIB 1
+02:46:26	Carlos Matías Garavello:	un jesus bailarín
+02:46:32	Rocio Yepes:	Jaja
+02:47:15	[Tutor] Alejandro Santos:	si chicos ojo con hacer la página de homero
+02:47:22	[Tutor] Alejandro Santos:	eviten mucha animación
+02:47:37	Rocio Yepes:	🤦‍♀️
+02:49:12	Gaspar Valdés:	http://www.homerswebpage.com/
+02:49:57	Carlos Matías Garavello:	eres el rey de reyes
+02:50:34	Leandro Borda:	hice cagada con mi teclado y ahora cuando quiero poner un guion me pone una barra o un signo de pregunta y no se que toque
+02:50:52	Fernando Emanuel Peralta:	fijate el idioma debe ser
+02:50:53	Juan Ercole:	f
+02:50:54	[Tutor] Jonatan Pereyra:	Lean, si tenes w10
+02:50:54	Melany Molina Verdún:	cambia el idioa
+02:50:56	[Tutor] Jonatan Pereyra:	Fijate en el idioma
+02:51:01	[Tutor] Jonatan Pereyra:	al lado de la hora
+02:51:09	Fernando Emanuel Peralta:	configuración regional si no te aparece
+02:51:17	[Tutor] Alejandro Santos:	si dice ESP , o EN
+02:51:22	Santiago Olivetto:	shift + control cambias la config del teclado
+02:51:29	Jonatan Céspedes:	#gallery__grid {    grid-template-rows: 70px repeat(3, 1fr);  }  #gallery__grid h1{    font-size: 4rem;    text-align: center;  }
+02:51:31	Santiago Olivetto:	shift + alt perdfon
+02:52:10	Jonatan Céspedes:	#gallery__grid h1{    font-size: 4rem;    text-align: center;    animation-name: left-in;    animation-duration: 1s;  }
+02:52:42	Gonzalo Tey Pinto:	display relative
+02:52:46	Leandro Borda:	si se me puso en ingles gracias!!
+02:52:47	Gonzalo Tey Pinto:	o no?
+02:53:24	[Tutor] Alejandro Santos:	Chicos se va entendiendo esto de animaciones ? gusta o no gusta , perdón pero para saber como vienen
+02:53:45	Fernando Emanuel Peralta:	Esta bueno, si, se entiende
+02:53:46	Lucas Otero:	olvídate, lleno de animaciones mi página
+02:53:48	Martin Mehrwaldt:	profe porque fue que sin el position relative no funcionaba?
+02:53:49	Francisco Reyes:	Me parece interesante, pero aún yo estoy complicado con armar una buena estructura
+02:54:09	Francisco Reyes:	creo que sirve, pero sirve más aprender bien el contenido anterior
+02:54:10	Fernando Emanuel Peralta:	Estaba necesitando un efecto así, combinado con otros obvio
+02:54:21	[Tutor] Alejandro Santos:	barbaro Fer, Fran , mejor enfocarse en estructura si dps animaciones
+02:54:54	Agustina Figallo:	quiero usar todoooo jajaj
+02:54:58	Rocio Yepes:	Si, Alejandro. Se entiende perfecto. A usar en moderacion, porque ademas es visualmente molesto cuando se mueve todo mucho.
+02:55:20	[Tutor] Jonatan Pereyra:	Si
+02:55:26	Milagros Gardiol:	Es revisar que todas las estructuras estén bien a partir de ahora jajaj
+02:55:27	Gaspar Valdés:	Está muy bueno sin dudas! pero me parece que hay que usarlo con precaución, sobre  todo para no saturar la página y la navegación del usuario
+02:55:34	[Tutor] Jonatan Pereyra:	No te da ni ganas de explorar un sitio que se mueve mucho jaja
+02:55:34	Jonatan Céspedes:	https://animate.style/
+02:55:36	Rocio Yepes:	Pero para hacer por ejemplo una linea de tiempo u otras cosas es genial.
+02:56:40	[Tutor] Alejandro Santos:	muy bien gente !!! me alegro que se entienda entonces
+02:57:27	Jonatan Céspedes:	<!-- Animate css -->    <link      rel="stylesheet"      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"    />
+02:59:43	Jonatan Céspedes:	animate__animated
+02:59:56	Martin Mehrwaldt:	en que HTML puso eso ??
+03:00:01	Carlos Matías Garavello:	espectaculare
+03:00:05	Jonatan Céspedes:	<h1 class="animate__animated
+03:00:11	Jonatan Céspedes:	<h1 class="animate__animated animate__backInLeft">JC - Dibujo e ilustración</h1>
+03:00:12	Francisco Reyes:	por qué puso 2 clases?
+03:00:17	Milagros Gardiol:	uyuy
+03:00:34	[Tutor] Alejandro Santos:	Francisco
+03:00:38	[Tutor] Alejandro Santos:	asi funciona animated
+03:00:39	Fernando Emanuel Peralta:	Es lo que pide la librería para que salga el efecto
+03:00:41	[Tutor] Alejandro Santos:	por eso
+03:00:57	[Tutor] Alejandro Santos:	lleva una clase , para llamar una parte y otra clase para llamar otra
+03:01:02	Milagros Gardiol:	consulta, como era la forma de aplicar clases sin tener que estar pensando en los nombres de cada cosa?
+03:01:42	Thomas Reemeerie:	al fin el carrousel, mi index lleva esperando esto desde la clase 2 jajajajaj
+03:01:50	Elias Ezequiel Prado:	x2
+03:02:00	Juan Martin Grasso:	3
+03:02:03	Gonzalo Tey Pinto:	4
+03:02:23	Rocio Yepes:	Igual Thomas!!!
+03:02:49	Carlos Matías Garavello:	ídem Thomas
+03:03:12	[Tutora]Maca Rodriguez:	También van a poder generar carruseles con Bootstrap!!!!
+03:03:34	Jonatan Céspedes:	<section class="carousel" style="--carousel-bg-color:var(--white-alpha-color);">        <input type="radio" name="slides" id="slide-1" checked>        <input type="radio" name="slides" id="slide-2">        <input type="radio" name="slides" id="slide-3">        <input type="radio" name="slides" id="slide-4">        <ul class="slides">            <li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>
+03:04:15	Jonatan Céspedes:	<li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>            <li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>
+03:04:25	Jonatan Céspedes:	<li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>
+03:04:30	Ivo Mendez Kiwacz:	en que parte lo empezamos a pegar?
+03:04:31	Jonatan Céspedes:	</ul>        <aside class="slides-nav">            <label for="slide-1" id="dot-1"></label>            <label for="slide-2" id="dot-2"></label>            <label for="slide-3" id="dot-3"></label>            <label for="slide-4" id="dot-4"></label>        </aside>    </section>
+03:04:58	Juan Pablo Mealla:	<li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>            <li class="slide">                <blockquote>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque expedita delectus quibusdam asperiores alias culpa ullam similique optio porro, corporis a maxime dolorem atque qui, cumque ipsum, minima aliquam pariatur!</blockquote>                <h3 class="text-first-color">NOMBRE DEL CLIENTE</h3>                <h6>Cliente</h6>            </li>
+03:05:52	Jonatan Céspedes:	/* +++++++++++++++++> *//* CAROUSEL *//* +++++++++++ *//********* Carousel *********/@keyframes carousel-slide {  0% {      transform: translateX(0%);   }  25% {      transform: translateX(-25%);      }  50% {      transform: translateX(-50%);  }  75% {      transform: translateX(-75%);  }}.carousel {  margin: 2rem auto;  padding: 2rem 0;  max-width: 800px;  text-align: center;  background-color: var(--carousel-bg-color);  overflow-x: hidden;}.carousel .slides {  padding-left: 0;  /* 100% por cada slide */  width: 400%;  display: flex;  list-style: none;  transition: transform .5s ease-in-out;  animation: carousel-slide 12s ease-in-out 3s;}.carousel input {  display: none;}.carousel label {  border: medium solid var(--gray-dark-color);  border-radius: 50%;  cursor: pointer;  margin: 0 .25rem;  display: inline-block;  width: .75rem;  height: .75rem;}#slide-1:checked ~ .slides {  transform: translateX(0%);}
+03:05:59	Jonatan Céspedes:	#slide-2:checked ~ .slides-nav label#dot-2,#slide-3:checked ~ .slides-nav label#dot-3,#slide-4:checked ~ .slides-nav label#dot-4 {  background-color: var(--gray-dark-color);}
+03:06:05	Jonatan Céspedes:	/* +++++++++++++++++> *//* FIN CAROUSEL *//* +++++++++++ */
+03:09:58	Silvana Toledo Szumowski:	Está genial!
+03:10:29	Arsenio Tello:	Muy bueno!
+03:11:33	Lucas Ezequiel Ugazio:	recreo por favor haha
+03:11:40	Francisco Reyes:	a mí me pasa eso, me falta estructura
+03:11:59	Francisco Reyes:	y después me cuesta mucho posicionar elementos o ajustar a través de css
+03:12:01	Ana Barrientos:	Profe, Jona! Nada qué ver la pregunta, porque la clase genial!Queremos saber cuál es tu THEME?!
+03:12:02	Melany Molina Verdún:	😢
+03:12:09	Carlos Matías Garavello:	si se escucha
+03:12:25	Elias Ezequiel Prado:	hahahaha
+03:12:26	Michael Seitz:	Porfa como era la configuración para que sea infinito
+03:12:38	Melldy Monteverde:	matrix
+03:12:50	Silvana Toledo Szumowski:	animation-iteration-count: infinite;
+03:12:55	(coordinador) Federico Castro:	https://drive.google.com/file/d/1kie1QP2vvB78hmdDqjDaa6j7kGtYMMXo/view
+03:12:57	Michael Seitz:	grax!
+03:12:59	Lucas Ezequiel Ugazio:	yo no puedo dedicarle TANTO tiempo a todas las cosas que vemos, voy haciendo los desafíos obligatorios, y aprendiendo lo que vamos viendo. Entiendo que tengo que practicar lo que vemos, pero creo que eso me va a llevar tiempo.
+03:13:03	(coordinador) Federico Castro:	https://drive.google.com/file/d/1AkbZpEDMgl5S2QHNx-8Xogcg4Dl0_gME/view
+03:13:10	SELENE BARRIOS CORNEJO:	:,3
+03:13:22	Pablo Choconi:	linux masterrace
+03:13:26	Eugenia Maeder:	cual pasaste primero?
+03:13:28	Milagros Gardiol:	queremos saber la marca del micro
+03:13:40	Carlos Matías Garavello:	ok
+03:13:44	Braian Esmoli:	okaa
+03:13:56	Melldy Monteverde:	aguante vim
+03:14:04	Santiago Olivetto:	cuando volvemos?
+03:14:13	Santiago Olivetto:	joya
+03:14:14	[TUTORA] Julieta Romano:	A las 14
+03:40:38	[Tutora] Melisa Ferreyra:	Genial!!
+03:40:55	Eugenia Maeder:	no
+03:40:56	Pablo Choconi:	Un poco
+03:40:56	Bautista Saggese:	no
+03:41:00	Eugenia Tinazzi:	Nono
+03:41:00	Gonzalo Tey Pinto:	no
+03:41:01	Elias Ezequiel Prado:	nunca
+03:41:01	Juan Martin Grasso:	no
+03:41:02	Arsenio Tello:	Aun no
+03:41:04	Carlos Matías Garavello:	poco
+03:41:16	Fernando Emanuel Peralta:	para un tp
+03:41:16	SELENE BARRIOS CORNEJO:	universidad
+03:41:16	Leandro García Luzzi:	solo una vez. Solamente commit de cosas
+03:41:19	Pablo Choconi:	En trabajo no
+03:41:22	Carlos Matías Garavello:	si para versionado de codigo
+03:42:19	Agustin Gonzalez:	quedo la mano levantada
+03:42:20	Agustin Gonzalez:	jajaja
+03:42:39	[Tutora]Maca Rodriguez:	Link del sitio oficial de git https://git-scm.com/
+03:47:56	Carlos Durán Fuentes:	el peligroso merge xD
+03:48:15	(coordinador) Federico Castro:	Les dejo por aca un doc con el resumen de GIT, para que después de la clase puedan leerlo https://docs.google.com/document/d/1qs7bbO03E343AIe4I4kt-mAwGnhHURzH6QPCE2dYg2Q/edit?usp=sharing
+03:48:58	Gonzalo Tey Pinto:	gracias
+03:49:05	[Tutor] Alejandro Santos:	Torval
+03:49:16	Carlos Durán Fuentes:	un god
+03:49:30	Pablo Choconi:	El linus
+03:50:50	Rocio Yepes:	Menos mal que guarde las versions de mi Proyecto.
+03:51:22	Michael Seitz:	Se pueden descargar desde la plataforma igual! Por si no la guardaste
+03:51:29	Michael Seitz:	En la parte de entregas
+03:51:43	Rocio Yepes:	oki
+03:51:53	Francisco Reyes:	es necesario usar git? Por ejemplo yo podría duplicar la carpeta y comenzar en esa nueva carpeta una versión 2
+03:52:02	[Tutor] Alejandro Santos:	Fran
+03:52:06	[Tutor] Alejandro Santos:	si haces eso en un trabajo
+03:52:09	[Tutor] Alejandro Santos:	te rajan
+03:52:12	[tutora] Camille Pittaluga:	jajajjaj
+03:52:14	Francisco Reyes:	xD
+03:52:15	[Tutor] Alejandro Santos:	en realidad no te contratan
+03:52:34	[Tutor] Alejandro Santos:	osea es como decir : es necesario hacer código o hago wordpress
+03:52:44	[Tutor] Alejandro Santos:	y....curso desarrollo web...lleva código...lleva git...
+03:52:45	Maximiliano Frias:	jajajajaja
+03:52:49	[Tutor] Alejandro Santos:	si no queremos aprender git...
+03:52:52	[Tutor] Alejandro Santos:	el curso lleva git….
+03:52:55	Francisco Reyes:	era solo una consulta
+03:53:01	Melldy Monteverde:	jajajajaja severa morte!
+03:53:06	[Tutor] Alejandro Santos:	si , te lo digo con humor
+03:53:10	[Tutor] Alejandro Santos:	en una empresa no
+03:53:43	Carlos Matías Garavello:	en todas las empresas te lo piden
+03:53:58	[Tutor] Alejandro Santos:	osea lo dan como OBVIO , que sabemos git y github
+03:54:21	Gonzalo Tey Pinto:	me hubiera sido re útil antes
+03:54:34	Gonzalo Tey Pinto:	cuando  me mandaba una en el codigo
+03:55:35	(coordinador) Federico Castro:	Super valorable saber git y github(que vemos el sábado que viene) para el ámbito laboral.
+03:56:09	Francisco Reyes:	yo estaba a punta de control z
+03:56:28	[Tutor] Alejandro Santos:	con git se termina
+03:56:44	[Tutor] Alejandro Santos:	y también se terminan las carpetas con version infinita
+03:57:07	Santiago Olivetto:	Que se usaba antes que git fuera creado?
+03:57:10	Michael Seitz:	como las versiones de Windows, que volves a la pc a como estaba 7 días atrás, sin instalarle o modificarle nada!
+03:57:12	[Tutor] Alejandro Santos:	pq todo proyecto empieza con , un proyecto final , dps sigue con un proyecto final final , dps sigue con un , este es el que va proyecto final
+03:57:28	Leandro Borda:	esto se "programaría" antes de arrancar todo el proyecto para que esten desde el principio todos los cambios que realicemos?
+03:57:41	Juan Camilo Vallejo:	jajajajaja mis carpetas con desafio 1, corrección desafio 1, desafio 2, correcion,desafio 2 etc etc
+03:58:16	Alan Romero:	corrección de la correccion
+03:58:19	Alvaro Ansin Vila:	desafio 3 , metida de pata de desafio 3, corrección de desafio 3 XD
+03:58:35	Melany Molina Verdún:	:P
+03:58:57	Myrthala Wong:	entrega finalentrega final finalentrega final final real=P
+03:59:06	Alan Romero:	jjjajaaa
+03:59:07	Alvaro Ansin Vila:	jajajajaja si si tal cual
+03:59:16	Josafat Díaz:	jaja esa es buena
+04:00:02	[Tutor] Alejandro Santos:	commit = cometer en español
+04:00:04	Rodrigo Alday:	proyecto, proyecto entrega, proyecto entrega modificado, proyecto entrega final ,proyecto entrega final modificado
+04:00:06	[Tutor] Alejandro Santos:	osea cometemos algo
+04:00:08	[Tutor] Alejandro Santos:	hacemos algo
+04:00:34	Myrthala Wong:	el commit es como un registrar?
+04:00:39	[Tutor] Alejandro Santos:	claro
+04:01:00	[Tutor] Alejandro Santos:	es el camino final de un cambio , después decidimos que hacer con ese cambio, pero ya lo vamos a ver
+04:01:04	Melldy Monteverde:	alter table XD
+04:02:54	[Tutor] Alejandro Santos:	la relacion más fácil es GitHub es una manera de compartir nuestro código a través de git
+04:03:03	[Tutor] Jonatan Pereyra:	Git es un tremendo salvador de proyectos
+04:03:06	[Tutor] Alejandro Santos:	la manera de comunicarse entre nuestra pc y GitHub es GIT
+04:03:23	[Tutor] Alejandro Santos:	git lo invento Linux, GitHub lo compro Microsoft dato de color
+04:03:28	[Tutor] Alejandro Santos:	hasta en eso se pelean
+04:03:38	Rocio Yepes:	Jaja
+04:04:23	Carlos Durán Fuentes:	se les cae el servidor de forma literal
+04:04:35	Juan Martin Grasso:	"profe, no puedo entregar el proyecto, se me quemo la nube"
+04:04:43	Melldy Monteverde:	faaaaa
+04:04:45	Gonzalo Tey Pinto:	ahi entra a la cancha el pendrive
+04:04:54	Gonzalo Tey Pinto:	nadie le gana
+04:05:00	[Tutor] Alejandro Santos:	una lluvia le gana
+04:05:04	Gaspar Valdés:	jajajaja
+04:05:10	Melldy Monteverde:	copía y re copia, cel y pendrive! u aparte en el drive XD
+04:05:13	[Tutor] Alejandro Santos:	el calor le gana
+04:05:15	[Tutor] Alejandro Santos:	todo le gana
+04:05:17	[Tutor] Alejandro Santos:	es de papel casi
+04:05:20	Gonzalo Tey Pinto:	nahh tranca
+04:05:26	Agustina Figallo:	Todo es magia en el mundo it
+04:05:46	Rocio Yepes:	Es como un GDrive del coding?
+04:05:49	Carlos Durán Fuentes:	"yo no lo instalo porque ya lo tengo..."
+04:05:53	Alvaro Ansin Vila:	la gente de mac calculo q tendrá que pagar por el programa y tardara media hr en cargar
+04:05:56	Alvaro Ansin Vila:	jajajajaja
+04:05:57	Juan Martin Grasso:	yo perdi data de discos HHD y pendrives. nada es seguro. ssd todavia toco madera
+04:06:10	(coordinador) Federico Castro:	Nono para mac es gratis tamb
+04:06:18	Alvaro Ansin Vila:	q raro
+04:06:19	[Tutor] Alejandro Santos:	de lo poco que es gratis para mac
+04:06:20	[Tutor] Alejandro Santos:	sisi
+04:06:22	[Tutor] Alejandro Santos:	magic
+04:06:45	Elias Ezequiel Prado:	next next next install
+04:06:46	Melldy Monteverde:	pronunciar la palabra apple ya es caro!
+04:06:55	LUCIANO HAWILA:	Puedo bajarlo portable?
+04:07:07	Maximiliano Frias:	yo creo que ya lo tengo, hago click derecho en una carpeta y dice git bash
+04:07:13	[Tutor] Jonatan Pereyra:	Siempre es recomendable esquivar los portables
+04:07:27	(coordinador) Federico Castro:	La unica diferencia es que la gente de windows tiene la opción de consola git Bash, mientras que los de mac usamos la terminal propia de mac, el funcionamiento es el mismo
+04:07:27	[Tutor] Jonatan Pereyra:	Si Maxi, si te aparece el bash, lo tenes
+04:07:42	Maximiliano Frias:	Buenisimo
+04:08:34	[Tutora] Luna Bartolozzi:	para encontrar la terminal en mac pueden hacer comand+espacio y escriben terminal
+04:08:37	Paola Osornio:	Alguien puede pasar el link para Mac porfa?
+04:08:48	Gaspar Valdés:	https://drive.google.com/file/d/1AkbZpEDMgl5S2QHNx-8Xogcg4Dl0_gME/view
+04:09:21	Paola Osornio:	gracias
+04:09:55	LUCIANO HAWILA:	Que componentes instalo?
+04:10:42	[Tutor] Alejandro Santos:	cuando mataron al pibe americano
+04:10:42	Myrthala Wong:	se puede cambiar lo de usar el visual code como default? en el video no decía eso
+04:10:45	[Tutor] Alejandro Santos:	black lives matter
+04:10:48	[Tutor] Alejandro Santos:	se acuerdan?
+04:10:53	[Tutor] Alejandro Santos:	bueno cambiaron el nombre
+04:10:56	[Tutor] Alejandro Santos:	en estados unidos
+04:11:02	[Tutor] Alejandro Santos:	mataron policías blancos
+04:11:06	[Tutor] Alejandro Santos:	a un afroamericano
+04:11:09	[Tutor] Jonatan Pereyra:	Si Myrthala, igual no es determinante realmente esa opcion
+04:11:12	[Tutor] Alejandro Santos:	q le pusieron la rodilla en la cabeza
+04:11:20	Fernando Emanuel Peralta:	si
+04:11:21	Myrthala Wong:	Gracias, Jonatan
+04:11:23	[Tutor] Alejandro Santos:	por eso empezó el movimiento black lives matter
+04:11:35	[Tutor] Alejandro Santos:	y ahi entonces git hizo eso
+04:11:43	[Tutor] Alejandro Santos:	sacar el master y poner main ( principal)
+04:11:50	Paola Osornio:	Hahaha hackear la nasa
+04:11:56	Rodrigo Alday:	invadamos el área 51
+04:12:14	Maximiliano Frias:	Que tiene que ver el movimiento BlackLivesMatter con que se llame master o main?
+04:12:18	Daniel Avila:	En el área 51 están los que ya manejan github jja
+04:12:24	LUCIANO HAWILA:	Muchos detalles para instalar.
+04:12:30	LUCIANO HAWILA:	No entendí mucho que instalar.
+04:12:31	Daniel Avila:	Cuando usas git solo accedes a la nasa
+04:12:32	Carlos Durán Fuentes:	a darle redbull al hámster de la pc
+04:12:32	[Tutor] Alejandro Santos:	Master era el amo
+04:12:34	[Tutor] Alejandro Santos:	claro
+04:12:37	Maximiliano Frias:	ahhhhh yayaya
+04:12:52	Alejo Coronel:	no me apareció la opción de elegir el editor de código
+04:13:00	[Tutor] Alejandro Santos:	no pasa nada Alejo
+04:13:04	[Tutor] Alejandro Santos:	lo vas a poder usar igual
+04:13:04	Alejo Coronel:	ah ok
+04:13:06	Alejo Coronel:	gracias
+04:13:09	[Tutora]Maca Rodriguez:	y una vez que les figura  que completaron la descarga de git, los tutores les vaciamos la cuenta de banco!!!
+04:13:12	LUCIANO HAWILA:	Yo le mande next a todo.
+04:13:18	Alejo Coronel:	idem
+04:13:27	Juan Camilo Vallejo:	ajajajaja Maca! jajaja
+04:13:34	Agustina Figallo:	No hay mucho Maca
+04:13:38	Alejo Coronel:	$ 0,00
+04:13:41	Gonzalo Tey Pinto:	va a ser mas pobre que antes
+04:13:42	(tutor) Lucas Montero:	Jajaja maca no les digas, que ahora no lo vamos a poder hacer (?
+04:13:44	Daniel Avila:	Fixs
+04:13:44	LUCIANO HAWILA:	Porque no me dio esas opciones.
+04:13:50	[Tutora]Maca Rodriguez:	Cuando entren a la cuenta no van a reir tanto jajaja
+04:13:55	Leandro Borda:	ya nos vacio la cuenta coder
+04:14:04	Paola Osornio:	Mi compu se esta hiperventilando
+04:14:09	LUCIANO HAWILA:	No se desvio un poco el chat?
+04:14:17	[Tutor] Alejandro Santos:	Luciano que duda tenes ?
+04:14:23	[Tutor] Alejandro Santos:	abri el mic si queres
+04:14:37	LUCIANO HAWILA:	No, ya instale todo con next, no me dio varias opciones.
+04:14:43	Melldy Monteverde:	Mr Anderson!
+04:14:50	[Tutor] Alejandro Santos:	verificaste si está instalado?
+04:14:59	[Tutor] Alejandro Santos:	las opciones esas son configurables despues
+04:15:00	Alvaro Ansin Vila:	listo
+04:15:03	Santiago Olivetto:	rdy
+04:15:03	[Tutor] Alejandro Santos:	como casi todo software
+04:15:03	facundo chavero:	listo
+04:15:05	Maximiliano Frias:	tengo la 2.34.1
+04:15:05	Gonzalo Tey Pinto:	listo
+04:15:06	Bautista Saggese:	listo
+04:15:07	Elias Ezequiel Prado:	listo
+04:15:07	Juan Pablo Mealla:	hecho
+04:15:09	Lucas Otero:	LISTO
+04:15:11	Alejo Coronel:	listo
+04:15:13	Milagros Gardiol:	listoo
+04:15:14	Carlos Matías Garavello:	genial
+04:15:15	Lautaro Portal:	listorti
+04:15:19	Eugenia Maeder:	okk
+04:15:20	Daniel Avila:	Pantallazo azul 😅
+04:15:25	LUCIANO HAWILA:	Se instalo.
+04:15:27	Leandro Borda:	porsupollo
+04:15:33	Francisco Reyes:	chck
+04:15:38	[Tutora] Luna Bartolozzi:	si les salta algo en la terminal, saquen captura y nos mandan a los tutores por la plataforma
+04:15:39	[Tutor] Alejandro Santos:	Listo Lucas entonces
+04:15:47	Melldy Monteverde:	soy el operador!
+04:15:50	Michael Seitz:	Ah se me fue el internet y me perdi todo
+04:15:52	Victor Lezcano:	👍
+04:15:52	Michael Seitz:	que hay que hacer?
+04:15:58	Maximiliano Frias:	si tengo la 2.34.1 no pasa nada?
+04:16:01	[Tutor] Jonatan Pereyra:	Adhiero a Luna, cuando les salte un error manden capturas
+04:16:02	[Tutora]Maca Rodriguez:	Es importante que respeten los espacios al escribir... Sino es error
+04:16:07	[Tutor] Jonatan Pereyra:	No Maxi, esta bien
+04:16:08	[Tutor] Alejandro Santos:	no pasa nada si tienen una version mas menos
+04:16:13	[Tutor] Alejandro Santos:	es lo mismo para lo q lo vamos a usar
+04:16:17	Maximiliano Frias:	buenisimo
+04:17:18	Ivo Mendez Kiwacz:	Michael seitz: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe hay que descargar esa versión
+04:17:30	Michael Seitz:	tengo la ultima. Esa misma!
+04:17:42	[Tutora]Maca Rodriguez:	git(espacio)--version
+04:17:59	Michael Seitz:	Excelente
+04:18:39	Carlos Durán Fuentes:	nunca programen entre ramas en el servidor xDD
+04:18:41	[Tutora]Maca Rodriguez:	Fundamental que lean la documentación oficial de todo lo que vayamos instalando o descargando en le curso!!! ahí está todoooo.. Errores, soluciones, ayuda, todo!!!
+04:18:47	facundo chavero:	ssj dios
+04:18:56	Milagros Gardiol:	ultra instinto
+04:18:58	[Tutor] Alejandro Santos:	lo que dice MACA es algo para tener en cuenta !!!
+04:19:19	[Tutor] Alejandro Santos:	los programas bien hechos
+04:19:21	[Tutor] Alejandro Santos:	tiran errores
+04:19:23	[Tutor] Alejandro Santos:	leemos
+04:19:26	[Tutor] Alejandro Santos:	y entendemos el error
+04:19:28	[Tutor] Alejandro Santos:	o tenemos mas chance
+04:19:30	[Tutor] Alejandro Santos:	o lo buscamos
+04:19:34	[Tutor] Alejandro Santos:	pero leamos el error
+04:19:48	Milagros Gardiol:	por ahora no
+04:19:50	Victor Lezcano:	no
+04:19:53	Braian Esmoli:	NONO
+04:19:55	Juan Camilo Vallejo:	todo ok
+04:19:56	[Tutora]Maca Rodriguez:	todos pudieron???
+04:19:58	Maximiliano Frias:	todo correcto
+04:20:02	Braian Esmoli:	nono*
+04:20:18	Adrian Rodriguez:	todo correcto
+04:20:40	[Tutora] Luna Bartolozzi:	si van a probar durante la semana, directo manden la captura por la plataforma, no nos peguen el codigo porque es dificil la lectura
+04:20:57	[Tutora]Daira Barrios:	Exacto, como dice Maca, manden al chat de la plataforma!!!
+04:20:58	Alvaro Ansin Vila:	your git is inestaibollllll XD
+04:21:09	[Tutor] Alejandro Santos:	comandos utiles : para borrar la consola , osea ven el lio q aparece de letras quieren vaciarla en windows es cls y en Linux es clear
+04:21:24	[Tutor] Alejandro Santos:	cd , change directory vale para ambos sistemas, y dps va la ruta
+04:21:35	fernando juan:	cuando abri git bash
+04:21:49	fernando juan:	me desistala el teclado
+04:21:55	[Tutor] Alejandro Santos:	eh?
+04:22:04	[Tutor] Alejandro Santos:	como que te desinstala el teclado
+04:22:10	fernando juan:	parece que me lo desconecto
+04:22:22	[Tutor] Alejandro Santos:	dudo que eso lo haga git
+04:22:30	[Tutora]Maca Rodriguez:	No tiene nada que ver fer! Fijate si es algo externo
+04:22:37	[Tutor] Jonatan Pereyra:	Posiblemente sea otra cosa, pero git no tiene tal poder
+04:22:45	[Tutor] Alejandro Santos:	como dicen los chicos Fer
+04:22:53	LUCIANO HAWILA:	Se desvirtuo un poco...
+04:23:05	[Tutor] Alejandro Santos:	Luciano estamos ayudando a un compañero?
+04:23:09	[Tutor] Alejandro Santos:	tenes alguna duda ?
+04:23:13	[Tutor] Alejandro Santos:	también te ayudamos
+04:23:49	Lucas Yacusa:	jajajajajaj el técnico menos distraido
+04:23:49	facundo chavero:	tremendo fondo de pantalla
+04:24:06	facundo chavero:	ls
+04:24:53	Rodrigo Alday:	sale un age
+04:25:06	fernando juan:	ahora busco que onda
+04:25:07	Francisco Reyes:	poder agrandar un poco la ventana
+04:25:12	fernando juan:	por q es con ese programa
+04:25:16	Juan Ercole:	cd
+04:25:20	fernando juan:	me lo desconecta totalmente
+04:25:23	Melldy Monteverde:	ls es como dir en cmd no ?
+04:25:34	Michael Seitz:	Si
+04:25:41	Francisco Reyes:	sii
+04:25:42	Francisco Reyes:	vale!
+04:25:54	[Tutor] Jonatan Pereyra:	Ahí se ve mejor
+04:25:55	Agustina Figallo:	sii
+04:25:57	Rocio Yepes:	Si
+04:25:57	Carlos Matías Garavello:	perfecto
+04:25:58	[Tutor] Alejandro Santos:	fer algo raro es eso pero no es de git
+04:25:59	Adrian Rodriguez:	si
+04:26:36	Agustina Figallo:	perdón q es cd? justo no escuche
+04:26:43	[Tutor] Alejandro Santos:	change directory
+04:26:47	Maximiliano Favaro:	parece una consola de Linux, con el comando pwd podes ver tu ruta absoluta
+04:26:48	Santiago Olivetto:	change directory
+04:26:56	[Tutor] Alejandro Santos:	https://www.xataka.com/basics/comandos-basicos-para-dar-tus-primeros-pasos-consola-windows-cmd
+04:27:02	[Tutor] Alejandro Santos:	comandos base de windows
+04:27:08	Lucas Yacusa:	perdón por la pregunta, pero cuando abrió la consola git
+04:27:16	Lucas Yacusa:	ósea cambio de cmd a esa
+04:27:22	Lucas Yacusa:	o estoy pirando y es la misma consola
+04:27:27	Maximiliano Luna:	abrió git bash, no es la consola de windows
+04:27:33	Lucas Yacusa:	ahica
+04:27:35	Lucas Yacusa:	grax
+04:27:37	[Tutor] Jonatan Pereyra:	Eso, esta usando bash
+04:27:38	Eugenia Maeder:	me perdí, qué puso para que le aparezcan todas las carpetas?
+04:27:39	Maximiliano Luna:	yw
+04:27:59	[Tutor] Alejandro Santos:	ls
+04:28:03	[Tutor] Alejandro Santos:	o pwd
+04:28:11	[Tutor] Alejandro Santos:	DIR
+04:28:12	[Tutor] Jonatan Pereyra:	Ahi lo use Euge, ls
+04:28:18	Lucas Yacusa:	Graciaaass! Fui a buscar la comida y me perdi justo eso jaja
+04:28:20	[Tutor] Jonatan Pereyra:	uso*
+04:28:24	Eugenia Maeder:	ahh genial
+04:28:31	Juan Cruz Rossi:	Me da esto al usar LS dentro de Dekstop private_key.pepk
+04:28:38	Juan Cruz Rossi:	desktop*
+04:28:48	Eugenia Maeder:	pestañeas un poco y te perdes
+04:28:49	Alejo Coronel:	lista ordenada 🤣
+04:29:06	[Tutor] Alejandro Santos:	TAB
+04:29:46	Agustina Figallo:	ls que es?
+04:29:54	Alejo Coronel:	LISTA
+04:29:55	Pablo Choconi:	cd ..
+04:29:55	[Tutor] Alejandro Santos:	List
+04:29:58	[Tutor] Alejandro Santos:	listar
+04:30:12	[Tutor] Alejandro Santos:	es bastante intuitivo
+04:30:14	Bautista Saggese:	que seria cd
+04:30:18	[Tutor] Alejandro Santos:	sabiendo inglés
+04:30:21	[TUTORA] Julieta Romano:	Change directory
+04:30:22	[Tutor] Alejandro Santos:	change directory
+04:30:29	Bautista Saggese:	porque a mi no me estaría saliendo ir a ningún lugar
+04:30:46	Alejo Coronel:	como limpio la consola
+04:30:51	Alejo Coronel:	clear seguro
+04:30:52	[Tutor] Alejandro Santos:	cls en windows alejo
+04:30:54	[Tutor] Alejandro Santos:	clear en mac
+04:30:56	Alejo Coronel:	gracias
+04:30:58	[Tutor] Alejandro Santos:	en basch clear
+04:31:02	[Tutor] Alejandro Santos:	bash
+04:31:04	[Tutora]Maca Rodriguez:	Bauti… mandale captura a tu tutor/a
+04:31:26	Joaquin Gruffat:	joaqu@JoacoGru MINGW64 ~ (master)$ cd Desktopbash: cd: Desktop: No such file or directory
+04:31:37	[Tutor] Alejandro Santos:	proba sin mayus
+04:31:43	[Tutor] Alejandro Santos:	y proba sino cd escritorio
+04:31:53	[Tutor] Alejandro Santos:	osea desktop o escritorio Joaquin
+04:32:04	[Tutor] Alejandro Santos:	sino con ls vas a ver si desktop existe o no
+04:32:17	[Tutor] Alejandro Santos:	conozco gente que no tenia desktop puede pasar
+04:32:27	Francisco Murua Leoni:	como era para salir?
+04:32:33	[Tutor] Alejandro Santos:	salir a donde fran
+04:32:42	Joaquin Morillo Sampedro:	yo no tengo deaktop
+04:32:46	Francisco Murua Leoni:	de la carpeta
+04:32:47	Joaquin Morillo Sampedro:	desktop
+04:32:49	[Tutor] Alejandro Santos:	cd ..
+04:32:55	Francisco Murua Leoni:	gracias
+04:32:58	[Tutor] Alejandro Santos:	si no tienen desktop vayan a la carpeta que quieran
+04:33:03	Joaquin Morillo Sampedro:	oka
+04:33:19	Alejo Coronel:	imposible no tener desktop me parece
+04:33:22	[Tutor] Alejandro Santos:	pq es donde vamos a trabajar por eso pueden elegir , la mayoría elegimos desktop pero da igual
+04:33:29	[Tutor] Alejandro Santos:	no es imposible Alejo
+04:33:33	[Tutor] Alejandro Santos:	puede pasar
+04:33:42	[Tutor] Alejandro Santos:	y tiene un por que, es largo de explicar
+04:33:56	[Tutor] Alejandro Santos:	pero si tenemos en windows por default Dropbox no hay desktop como tal
+04:34:00	Juan Ercole:	para limpiar consola es ctrl + L
+04:34:02	[Tutor] Alejandro Santos:	sino q esta dentro de drpbox
+04:34:18	Alejo Coronel:	ok, gracias por la info, no sabia
+04:34:19	fernando juan:	la practica de esta semana va a tener git ?
+04:34:24	[Tutor] Alejandro Santos:	si Fer
+04:34:31	fernando juan:	ok
+04:34:40	fernando juan:	ya vali
+04:34:43	Eugenia Maeder:	se puede cambiar el nombre de nuevo después?
+04:34:45	Melldy Monteverde:	si s
+04:34:48	Milagros Gardiol:	de mi parte también
+04:34:51	[Tutor] Alejandro Santos:	todo se puede cambiar
+04:34:54	[Tutor] Alejandro Santos:	después
+04:35:06	(coordinador) Federico Castro:	*importante el mail que usemos aca, que sea real y que lo recuerden lo vamos a necesitar la clase que viene tamb
+04:35:09	Joaquin Gruffat:	yo tengo problemas, pero voy a seguir la clase y despues lo hare
+04:35:17	SELENE BARRIOS CORNEJO:	git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+04:35:24	[Tutor] Alejandro Santos:	ésta parte de la clase es para ver de nuevo
+04:35:27	Joaquin Gruffat:	git config
+04:35:52	[Tutora]Maca Rodriguez:	Anoten los datos que ponen aca… o guárdenlos en un note
+04:36:34	Joaquin Gruffat:	tiene algo que ver que diga (master) al lado de mi usuario?
+04:36:47	[Tutor] Alejandro Santos:	chicos de mi camada les deje algo para DESPUES en nuestro canal
+04:36:59	Ivo Mendez Kiwacz:	no me deja escribir arroba
+04:36:59	[Tutor] Alejandro Santos:	Joaquin hablamos de eso antes. Master es la rama principal
+04:37:01	[Tutor] Alejandro Santos:	sino es MAIN
+04:37:05	[Tutor] Alejandro Santos:	pero es eso nada mas
+04:37:07	[Tutor] Alejandro Santos:	y es normal
+04:37:07	Milagros Gardiol:	no me toma el arroba
+04:37:08	Ivo Mendez Kiwacz:	el arroba no funca en el programa
+04:37:16	Fernando Emanuel Peralta:	dale Ale
+04:37:23	Lautaro Portal:	@
+04:37:26	Lautaro Portal:	Copialo de aca
+04:37:28	Milagros Gardiol:	copiar y pegar @
+04:37:29	Elias Ezequiel Prado:	toque flecha para arriba y les pone el ultimo comando puesto
+04:37:33	Fernando Emanuel Peralta:	Alt Gr + Q o Alt Gr + 2
+04:37:43	[Tutor] Alejandro Santos:	como dice Fernando Emanuel
+04:37:59	Melany Molina Verdún:	si lo pongo dos veces se sobreescribe? por si hay que cambiar algo
+04:38:05	[Tutor] Alejandro Santos:	exacto
+04:38:14	[Tutor] Alejandro Santos:	si lo haces de nuevo con otro nombre o algo
+04:38:16	[Tutor] Alejandro Santos:	sobreeescribe
+04:38:21	Melany Molina Verdún:	oki gracias!
+04:41:44	Maximiliano Frias:	puedo modificar alguna cosa que escribimos antes?
+04:41:56	Maximiliano Frias:	osea por ejemplo el user.email
+04:41:58	Alan Romero:	gracias
+04:42:02	[Tutor] Alejandro Santos:	si podemos
+04:42:05	[Tutora] Luna Bartolozzi:	nada
+04:42:15	[Tutora] Luna Bartolozzi:	perdon me equivoque de chat
+04:42:53	Eugenia Maeder:	por que te sigue apareciendo USUARIO@DESKTOP … ?? eso no es el user?
+04:43:00	[Tutora] Luna Bartolozzi:	si euge
+04:43:04	[Tutora] Luna Bartolozzi:	es el usuario del profe
+04:43:08	[Tutor] Alejandro Santos:	Euge eso es del Sistema operativo
+04:43:10	[Tutor] Alejandro Santos:	no de git
+04:43:20	Eugenia Maeder:	ahh
+04:43:22	[Tutora] Luna Bartolozzi:	y la letra naranja es la ubicacion de la carpeta, la direccion
+04:44:22	[Tutor] Alejandro Santos:	esto viene de algo llamado UNIX , básicamente mac os esta hecho en algo muy parecido a Linux en su kernel
+04:44:27	[Tutor] Alejandro Santos:	por eso hay tantas similitudes
+04:44:37	[Tutor] Alejandro Santos:	bash usa casi comandos como linux
+04:44:40	[Tutor] Alejandro Santos:	nada , dato de color
+04:44:44	[Tutor] Alejandro Santos:	dps lean del tema si quieren
+04:44:55	Fernando Emanuel Peralta:	buen dato!
+04:45:07	Fernando Emanuel Peralta:	todo suma
+04:45:26	[Tutor] Alejandro Santos:	la idea del curso también es empaparnos en todo este mundo que es un quilombo pero es hermoso
+04:45:37	Alejo Coronel:	fan de Nicolas Schurman
+04:45:50	[Tutor] Alejandro Santos:	el chileno que esta en nueva Zelanda corazón!!!
+04:45:51	[Tutor] Alejandro Santos:	jajaja
+04:45:51	Gaspar Valdés:	un crack ese vago
+04:46:03	[Tutor] Alejandro Santos:	hola mundo ;)
+04:46:11	Alejo Coronel:	jajaj genio genio
+04:46:28	[Tutor] Alejandro Santos:	sigan a Victor robles también, bluuweb
+04:46:33	[Tutor] Alejandro Santos:	hay gente copada afuera tmb
+04:46:34	[Tutor] Alejandro Santos:	;)
+04:47:02	Melldy Monteverde:	Nicholas S
+04:47:07	[Tutor] Alejandro Santos:	Eseee
+04:47:15	Elias Ezequiel Prado:	soy dalto
+04:47:18	Alan Romero:	hola mundo
+04:47:20	Braian Esmoli:	un kpo
+04:47:21	[Tutor] Alejandro Santos:	lo loco de ese tipo es que es ingeniero y jamas ejercio
+04:47:24	Gaspar Valdés:	que bien ese Age of Empire ahí! :D
+04:47:24	Daniel Avila:	Midudev
+04:47:49	Melldy Monteverde:	pelado nerd
+04:48:09	[Tutor] Alejandro Santos:	consuman esos contenidos
+04:48:29	[Tutor] Alejandro Santos:	menos Instagram , menos tiktok y en un año le dan bola a gente de dw en YouTube en un año me cuentan
+04:48:35	Melldy Monteverde:	la cocina del código..
+04:49:00	Gonzalo Tey Pinto:	cuantos comandos son en total?
+04:49:09	[Tutor] Alejandro Santos:	incontables Gonza}
+04:49:15	Gonzalo Tey Pinto:	ufff jajaja
+04:49:23	[tutora] Camille Pittaluga:	over 9000 ahre
+04:49:51	Fernando Emanuel Peralta:	xD
+04:50:02	Jonatan Céspedes:	https://www.dell.com/support/kbdoc/es-ar/000123980/gu%c3%ada-sobre-comandos-del-terminal-ubuntu-linux-en-una-computadora-dell#Control_Commands
+04:50:03	[tutora] Camille Pittaluga:	si, y pensar 'necesito hacer esto, habrá algún comando?' y googlear
+04:50:04	[Tutor] Jonatan Pereyra:	Comparto lo que dice Ale
+04:50:12	Pablo Choconi:	Por lo que pude ver hasta ahora los comandos que estas mostrando son igual a los de linux
+04:50:36	Gonzalo Tey Pinto:	es lógico , soy abogado y no nos sabemos todas las leyes de memoria. pero las sabemos buscar. eso comparto
+04:50:46	Carlos Matías Garavello:	Juan Carlos Google siempre presente
+04:50:47	Juan Martin Grasso:	prueben format C/
+04:50:48	Juan Martin Grasso:	joda joda
+04:50:49	Juan Martin Grasso:	jajaja
+04:50:54	Elias Ezequiel Prado:	hhaha
+04:50:55	[Tutor] Alejandro Santos:	exacto Gonza!!!!!
+04:51:03	Gonzalo Tey Pinto:	pero tenia la curiosidad jaja
+04:51:11	Rodrigo Alday:	trabajste en prisma?
+04:51:15	Rodrigo Alday:	yo trabajo en prisma
+04:51:26	(coordinador) Federico Castro:	Siempre pasa que quizás lo mas básico, se te va jajaj
+04:51:56	Melldy Monteverde:	ya sabemos que no nos van a ver raro cuando no podamos centrar un div!
+04:51:57	Elias Ezequiel Prado:	clave son estos tips
+04:51:58	Melldy Monteverde:	XD
+04:52:08	Alejo Coronel:	el tema es saber como buscarlas
+04:52:08	[Tutor] Alejandro Santos:	esto es mas MOTIVACIONAL
+04:52:10	[Tutor] Alejandro Santos:	que otra cosa
+04:52:12	[Tutor] Alejandro Santos:	pq es real
+04:52:21	Josafat Díaz:	hombre, no podía entrar al Desktop porque estaba oculta una tal carpeta Default
+04:52:22	Alan Romero:	igual no me acuerdo nada
+04:52:27	Alan Romero:	después jajajja
+04:52:28	Elias Ezequiel Prado:	me re sirven y me sacan un poco de la presion hahaha de tener que saber todo de una
+04:52:33	Melldy Monteverde:	Larousse Google edition!
+04:52:33	Carlos Durán Fuentes:	estudie 4 años para saber como preguntarle a google
+04:52:34	[Tutor] Jonatan Pereyra:	El mejor programador no es el que sabe todas las funciones, si no el que mejor googlea
+04:52:37	[Tutora] Luna Bartolozzi:	muchas empresas valoran las habilidades blandas y despues les enseñan las tecnicas, es imposible saber todo
+04:52:45	Jonatan Céspedes:	https://www.freecodecamp.org/espanol/news/cmd-eleminar-carpeta-como-eliminar-archivos-y-carpeta-en-windows/
+04:52:54	Lucas Ezequiel Ugazio:	hacer proyectos, es mas divertido y se aprende
+04:52:58	Santiago Olivetto:	Reddit salva vidas tambien
+04:53:17	[Tutor] Alejandro Santos:	el otro dia no sabia como configurar un router zte nuevo
+04:53:20	[Tutor] Alejandro Santos:	me tendría que haber matado
+04:53:22	[Tutor] Alejandro Santos:	pero no
+04:53:23	[Tutor] Alejandro Santos:	osea
+04:53:25	Alvaro Ansin Vila:	que tiempos aquellos en los de yahoo sites q aprendias HTML de forma auto didacta XD ahora ya lo hace google
+04:53:26	[Tutor] Alejandro Santos:	busque el nuevo modelo
+04:53:26	[Tutor] Alejandro Santos:	y ya
+04:53:32	[Tutor] Alejandro Santos:	y trabajo en sistemas
+04:53:34	[Tutor] Alejandro Santos:	osea calma
+04:53:56	[Tutor] Alejandro Santos:	jajaja
+04:54:00	[Tutor] Alejandro Santos:	te suena putty?
+04:54:01	[Tutor] Alejandro Santos:	ssh
+04:54:03	[Tutor] Alejandro Santos:	jajaja
+04:54:05	[Tutor] Alejandro Santos:	todos los dias
+04:54:07	Alvaro Ansin Vila:	siii
+04:54:11	[Tutor] Alejandro Santos:	sysadmin
+04:54:46	[Tutor] Alejandro Santos:	y automatización en batch y python
+04:54:53	[Tutor] Alejandro Santos:	a eso me dedico...tengo menos esperanza de vida
+04:55:05	Alvaro Ansin Vila:	jajajajajaja
+04:55:29	Rodrigo Alday:	ale sos lic en analista de sis?
+04:55:35	[Tutor] Alejandro Santos:	no , nunca me recibi
+04:55:36	Rodrigo Alday:	o sos ing en informática?
+04:55:37	[Tutor] Alejandro Santos:	deje la facu
+04:55:39	[Tutor] Alejandro Santos:	la odio
+04:55:41	Rodrigo Alday:	uuuu jajaj
+04:55:43	Rodrigo Alday:	yo tambien
+04:55:45	[Tutor] Alejandro Santos:	y no vuelvo mas
+04:55:47	Rodrigo Alday:	hasta 3 año de ingenieria
+04:55:48	Rodrigo Alday:	y abandone
+04:55:49	Rocio Yepes:	Jajaj, Ale. Te re banco
+04:56:09	Rodrigo Alday:	chocale ale
+04:56:12	[Tutor] Alejandro Santos:	estudie cuando tenia 18...a los 20..21 , tengo 32 y sobrevivi igual
+04:56:30	Rodrigo Alday:	yo 27 y aca estoy
+04:56:32	Rodrigo Alday:	jajaj
+04:56:33	Rocio Yepes:	Yo nunca termine el prf. de ingles y labure dando clases igual.
+04:56:55	Alejo Coronel:	yo deje la facultad por coderhouse jaja
+04:57:12	Alvaro Ansin Vila:	yo 33 y laburando como loco y estudiando vamo arriba
+04:57:13	Rodrigo Alday:	yo ahora estoy haciendo un terciario DE TECNICO en análisis de sistemas
+04:57:24	Maximiliano Favaro:	Comilla simple
+04:57:26	Carlos Matías Garavello:	si
+04:57:28	Rodrigo Alday:	y hago estos cursos para complementar
+04:57:28	[Tutor] Alejandro Santos:	comillas
+04:57:29	Santiago Olivetto:	comilla
+04:57:39	facundo chavero:	me  tiro cammand not found
+04:57:51	[Tutora] Luna Bartolozzi:	facu chequea como escribiste el comando
+04:58:00	[Tutora]Maca Rodriguez:	opción 2: no colocarle espacios a los nombres de las carpetas y archivos jajaja
+04:58:21	[Tutora] Luna Bartolozzi:	como dice maca, si tienen espacio en las carpetas les va a tirar error
+04:58:23	[Tutor] Alejandro Santos:	Facu chequea si pusiste mkdir bien
+04:58:33	[Tutora] Luna Bartolozzi:	tambien si tienen ñ y caracteres raros
+04:58:34	[Tutor] Alejandro Santos:	y que no haya espacioscomo dice maca
+04:58:35	Natanael Rodriguez:	como se pone la barra para la izquierda?
+04:58:42	Michael Seitz:	arriba del 7
+04:58:43	[Tutor] Alejandro Santos:	alt 192
+04:58:43	Agustina Figallo:	no se ni donde están las comillas simples jajajaj
+04:58:56	Jonatan Céspedes:	' '
+04:58:59	Jonatan Céspedes:	\ \
+04:59:02	[Tutor] Alejandro Santos:	alt 92 perdon
+04:59:07	Juan Martin Grasso:	en el teclado numerico, o shift 7 suele estar
+04:59:07	[Tutor] Alejandro Santos:	es la barra invertida
+04:59:13	Maximiliano Frias:	7 \\ 7
+04:59:26	Natanael Rodriguez:	Gracias!
+04:59:44	facundo chavero:	no me deja igual no se porque, me sigue tirando not found
+05:00:15	[Tutor] Alejandro Santos:	facu algo en el comando o en el nombre de la carpeta
+05:00:24	(coordinador) Federico Castro:	Facu manda captura del error al canal que tenes con tu tutor o tutora para ver
+05:00:44	facundo chavero:	pongo 1s dentro de la carpeta  de programacion
+05:00:44	Alejo Coronel:	magique
+05:00:48	facundo chavero:	y me tira eso
+05:00:50	facundo chavero:	oka
+05:01:24	[Tutor] Alejandro Santos:	ahi te hable por el chat de la plataforma facu
+05:01:55	Juan Ercole:	atajo para consola en vscode ctrl + shift + ñ
+05:02:23	Michael Seitz:	No me da la opción de bash
+05:02:34	[Tutor] Alejandro Santos:	cerra vscode y volve a abrirlo
+05:03:00	Pablo Choconi:	git init
+05:03:00	Maximiliano Luna:	Algun tutor me recuerda como abrir el código desde una carpeta especifica?
+05:03:09	(coordinador) Federico Castro:	Pueden usar cualquiera, la integrada de visual, cmd, git bash o terminal en mac =)
+05:03:11	Michael Seitz:	sigue sin aparecer
+05:03:16	Juan Ercole:	git init
+05:03:18	Alvaro Ansin Vila:	bien
+05:03:22	Carlos Matías Garavello:	perfecto
+05:04:02	Michael Seitz:	Tiene algo que ver que tenga el vscode instalado en el disco C y el git en el D?
+05:04:30	Michael Seitz:	Porque no me aparece el bash como terminal
+05:04:39	[Tutor] Alejandro Santos:	claro
+05:04:41	[Tutor] Alejandro Santos:	no puede matchear
+05:04:56	Michael Seitz:	Listo. Después genero el cambio!
+05:07:43	[Tutor] Alejandro Santos:	en carpeta oculta , van a encontrar esa carpeta
+05:08:44	(coordinador) Federico Castro:	Esa carpeta oculta, no la toquen. No la borren no agreguen nada.
+05:09:13	Melldy Monteverde:	explotaba todo cuando se modificaba la carpteta
+05:09:17	Gonzalo Tey Pinto:	seria crear el git dentro de nuestro "proyecto+apellido"????
+05:09:43	Milagros Gardiol:	Debo de retirarme, veré el final de la clase luego. Buen finde para todos!
+05:10:52	[Tutora] Melisa Ferreyra:	Dale Milagros, buen finde!
+05:11:06	Alvaro Ansin Vila:	buen finde
+05:12:53	Alejo Coronel:	colgué con la carpeta .vscode , había que crearla ?
+05:13:04	Maximiliano Frias:	nono
+05:13:12	Maximiliano Frias:	es una carpeta que el vs te crea automaticamente
+05:15:15	[Tutor] Alejandro Santos:	rm= remove
+05:16:18	[Tutor] Alejandro Santos:	el -m es mensaje
+05:16:25	[Tutor] Alejandro Santos:	como la descripción de lo q estamos haciendo
+05:16:29	[Tutor] Alejandro Santos:	SIEMPRE va entre comillas
+05:17:37	[Tutora]Maca Rodriguez:	git commit -m "Nombre del commit"
+05:18:04	Juan Martin Grasso:	creacion
+05:18:06	Pablo Choconi:	Agregamos index.html
+05:18:08	Maximiliano Favaro:	Versión Inicial
+05:18:14	Fernando Emanuel Peralta:	creación index
+05:18:17	SELENE BARRIOS CORNEJO:	agregar index.html
+05:18:20	Pablo Choconi:	index.html added
+05:18:43	[Tutora] Luna Bartolozzi:	es como una etiqueta
+05:19:24	[Tutora] Luna Bartolozzi:	pero no de codigo, sino etiquetar el cambio que estamos subiendo
+05:20:25	[Tutor] Alejandro Santos:	el espacio diran por que ...pq es un carácter
+05:20:40	Maximiliano Favaro:	También funciona con Comillas simples
+05:20:52	Agustina Figallo:	borro el git que aparece en el código ?
+05:21:22	Rocio Yepes:	View?
+05:21:27	[Tutor] Alejandro Santos:	git l...
+05:21:31	[Tutor] Alejandro Santos:	log
+05:21:32	[Tutor] Alejandro Santos:	jaja
+05:21:44	[Tutora]Maca Rodriguez:	Agus podes borrar la terminar sin problema.. No es lo mismo que cerrarla y volver a abrirla
+05:21:45	Rocio Yepes:	Genial!
+05:22:42	Carlos Matías Garavello:	git add
+05:22:55	[Tutor] Alejandro Santos:	pueden también verlo asi
+05:22:56	[Tutor] Alejandro Santos:	git log --oneline
+05:23:04	[Tutor] Alejandro Santos:	y aparece mas limio
+05:23:06	[Tutor] Alejandro Santos:	limpio
+05:23:13	Maximiliano Frias:	git add .
+05:23:23	Francisco Murua Leoni:	ale, esto que estamos viendo ahora esta en el video q nos mandaste?
+05:23:31	[Tutor] Alejandro Santos:	obvio
+05:23:33	[Tutor] Alejandro Santos:	y más tambien
+05:23:35	[Tutor] Alejandro Santos:	;)
+05:23:42	Francisco Murua Leoni:	bienn
+05:23:48	Francisco Murua Leoni:	pq me perdi
+05:23:54	Gonzalo Tey Pinto:	queremos ese video jajaj
+05:23:56	[Tutor] Alejandro Santos:	si ven eso q les mande , mas lo q ven ahora, la van a tener clara
+05:25:32	[Tutor] Alejandro Santos:	un video q mande
+05:25:34	[Tutor] Alejandro Santos:	prohibido
+05:25:35	Maximiliano Frias:	oaaaaaa
+05:25:39	[Tutor] Alejandro Santos:	solo para mi camada jaja
+05:25:45	[Tutor] Alejandro Santos:	nanana de git
+05:25:46	Adrian Rodriguez:	fuaaa
+05:25:47	[Tutor] Alejandro Santos:	y github
+05:25:48	Ivo Mendez Kiwacz:	como se llama este tema que estamos viendo ahora, asi lo busco despúes
+05:25:55	Elias Ezequiel Prado:	opa hahhah
+05:25:56	[Tutora] Luna Bartolozzi:	git ivo
+05:25:57	[Tutora]Maca Rodriguez:	git Ivo
+05:26:23	[TUTORA] Julieta Romano:	git
+05:26:30	[Tutor] Alejandro Santos:	les paso algo útil guárdenlo  https://gist.github.com/dasdo/9ff71c5c0efa037441b6
+05:26:39	facundo chavero:	me pegue una perdida
+05:26:54	[Tutor] Alejandro Santos:	Facu normal , mira la clase de nuevo dps, mira el video que deje y ese link q pase recien
+05:26:57	manuel mencia:	no pude cambiar la terminal a bash
+05:26:59	[Tutor] Alejandro Santos:	y la vida va a ser más fácil
+05:27:49	Agustina Figallo:	Hermosísimo
+05:28:01	Josafat Díaz:	increible
+05:28:03	Agustina Figallo:	Así nos animamos a romper todo
+05:29:02	Alan Romero:	me quedo en 2 puntos
+05:29:20	Alan Romero:	y m epuso en entre parentesis
+05:29:29	[Tutor] Alejandro Santos:	a modo motivación : si algo no nos sale , tranquilos, es la primera vez para casi todos en su vida que ven esto , que haya dudas es lo mas normal del mundo se arregla mirando mas cosas del tema
+05:29:32	[Tutor] Alejandro Santos:	y practicando
+05:30:41	Melany Molina Verdún:	a mi nunca me apareció en verde y solo la U, después voy a probar de nuevo pero si no funciona como lo resuelvo?
+05:30:43	[TUTORA] Julieta Romano:	Si, con la practica se van a acordar de memoria los comandos y va a salir super rapido ;)
+05:32:59	[Tutor] Jonatan Pereyra:	Si no te funciona nuevamente mándame captura por el chat Melany
+05:33:11	Melany Molina Verdún:	Bueno dale!
+05:34:24	Gonzalo Tey Pinto:	ahora si esta claro
+05:34:32	Pablo Choconi:	Nos van a enseñar como resolver conflictos a la hora de hacer merge ?
+05:34:52	Rocio Yepes:	Si hubiera un bug, se arregla en feature con el bug # y despues pasa a feature?
+05:34:57	[Tutor] Alejandro Santos:	si Pablo de todas maneras un merge casi nunca lo hacemos siendo JUNIORS
+05:34:58	Juan Martin Grasso:	la master seria Rick C-137
+05:36:53	Alan Romero:	gente tengo end entre paréntesis, como vuelvo?
+05:37:11	[Tutor] Jonatan Pereyra:	git checkout ramaDondeQueramosIr
+05:38:59	Gonzalo Tey Pinto:	epico
+05:39:06	Alejo Coronel:	muy bueno
+05:39:17	[Tutor] Alejandro Santos:	merge = combinar
+05:39:25	Rocio Yepes:	git checkout mybrain
+05:39:30	[Tutora]Maca Rodriguez:	Chicos veo que de a poco se están yendo!!!! Revisen las ppt de la clase de animaciones porque hay dos desafíos!!! uno obligatorio y otro complementario u opcional!
+05:39:45	Carlos Matías Garavello:	ok
+05:39:50	Carlos Matías Garavello:	ya pasaron asistencia
+05:39:52	Carlos Matías Garavello:	?
+05:39:57	Joaquin Morillo Sampedro:	maca, eso quería preguntar
+05:40:10	[TUTORA] Julieta Romano:	Pregúntale a tu tutor Carlos
+05:40:12	[Tutora]Maca Rodriguez:	Consúltalo con tu tutor Carlos si no te llegó
+05:40:12	Eugenia Maeder:	hay after esta semana?
+05:40:12	Joaquin Morillo Sampedro:	lei las diapositivas y no encuentro diferencia entre los dos desafios
+05:40:13	Juan Martin Grasso:	queda TODO guardado en los commits? cambios de  imagenes y archivos de subcarpetas tambien? o solo lo que es codigo?
+05:40:19	[TUTORA] Julieta Romano:	Creo que la mayoría ya pasamos asistencia
+05:40:57	[Tutora]Maca Rodriguez:	sisi
+05:41:00	[Tutora] Luna Bartolozzi:	en el ppt de animaciones jona
+05:41:21	Joaquin Morillo Sampedro:	cual es la diferencia entre los dos desafiios que tenemos?
+05:41:29	[Tutora]Maca Rodriguez:	ahora lo vemos joaco
+05:41:34	Joaquin Morillo Sampedro:	oka
+05:42:03	Leandro Borda:	creo que el próximo es agregar grid
+05:42:40	Ivo Mendez Kiwacz:	profe quiero solucionar lo de que no puedo entrar a la carpeta de drive, me dice: lo sentimo, el archivo que solicitaste fue eliminado
+05:43:07	[Tutor] Jonatan Pereyra:	Probaste desde la carpeta compartida ivo?
+05:43:23	Ivo Mendez Kiwacz:	no se donde ver eso de carpeta compartida
+05:43:25	[Tutor] Jonatan Pereyra:	https://drive.google.com/drive/folders/146hM7otlf_kXtbmjwn6A33r33pd_P95E
+05:43:33	[Tutor] Jonatan Pereyra:	Esta el acceso en la parte superior derecha del curso
+05:43:37	Ivo Mendez Kiwacz:	uhhhh ahí esta
+05:43:50	Ivo Mendez Kiwacz:	pude entrar desde el link que me mandaste
+05:43:51	Ivo Mendez Kiwacz:	Gracias
+05:43:52	Ivo Mendez Kiwacz:	broder
+05:44:23	[Tutor] Jonatan Pereyra:	Importantisimo
+05:44:25	[Tutor] Jonatan Pereyra:	Lo que dice Maca
+05:44:31	(coordinador) Federico Castro:	Exacto es una unica entrega, tengan presente eso
+05:44:41	Joaquin Morillo Sampedro:	y cual es la diferencia al final? :/
+05:44:46	[Tutora] Melisa Ferreyra:	Buen finde!! Practiquen  mucho. cualquier duda estamos por el chat de la plataforma
+05:44:51	Joaquin Morillo Sampedro:	porque las consignas las veo iguales
+05:44:57	(coordinador) Federico Castro:	Los que estan en verde, son obligatorios.
+05:45:00	[Tutora] Luna Bartolozzi:	el complementario tiene que tener si o si media query
+05:45:10	[Tutora]Maca Rodriguez:	joaco el obligatorio es en 1 solo HTML, el otro en todo
+05:45:14	Joaquin Morillo Sampedro:	Genial}
+05:45:24	Joaquin Morillo Sampedro:	eso quería saber! muchas gracias
+05:45:36	Joaquin Morillo Sampedro:	perfectro gracias ale1
+05:46:12	Gonzalo Tey Pinto:	okey
+05:46:16	Gonzalo Tey Pinto:	una libre
+05:46:23	Rodrigo Alday:	como hacemos para saber si estamos haciendo bien en el mobile?
+05:46:24	Carlos Matías Garavello:	pillín 🤣
+05:46:31	Santiago Olivetto:	una section o una pagina libre?
+05:46:37	[Tutor] Jonatan Pereyra:	Una pagina
+05:46:40	Maximiliano Favaro:	como como ? osea una de los HTML sin responsive ?
+05:46:40	[Tutora] Luna Bartolozzi:	seccion es un html
+05:46:44	Santiago Olivetto:	gracias
+05:46:55	Lucas Otero:	Muy claro todo! Saludos!
+05:46:58	Joaquin Morillo Sampedro:	Buen finde! graciasss
+05:47:00	Lautaro Portal:	Nos vemos!
+05:47:17	Matias Nicolas Sierra:	buen findee
+05:47:28	Arsenio Tello:	Gracias, buen fin de semana.
+05:47:30	Juan Ercole:	Me tengo que ir, saludos a todos
+05:47:35	[Tutora]Maca Rodriguez:	pueden abrir el inspeccionador con f12
+05:47:47	SELENE BARRIOS CORNEJO:	gracias por la clase :3
+05:48:14	[Tutora]Daira Barrios:	Nos vemos, buen finde!!!
+05:48:40	Pablo Choconi:	Nos vemos
+05:49:01	[TUTORA] Julieta Romano:	Nos vemos buen findee
+05:49:07	[Tutor] Jonatan Pereyra:	Buen finde!
+05:49:19	Rodrigo Alday:	de 10
+05:49:22	Rodrigo Alday:	buena data
+05:49:33	Marcela Acosta:	Perfecto
+05:49:35	Eugenia Tinazzi:	Buenísima la clase!! Que tengan un lindo finde!!
+05:49:38	[Tutora]Maca Rodriguez:	Buen finde para todooooos!!! Practiquen mucho!!!
+05:49:39	Marcela Acosta:	Muchas gracias!
+05:50:03	[Tutor] Jonatan Pereyra:	Y dejen algún comentario al momento de valorar
+05:50:12	[Tutor] Alejandro Santos:	claro por mas que sea negativo
+05:50:16	[Tutor] Alejandro Santos:	sino es imposible mejorar
+05:50:23	[Tutor] Alejandro Santos:	y además diferencien por favor
+05:50:24	Carlos Matías Garavello:	buen finde
+05:50:33	[Tutor] Alejandro Santos:	frustración de la ayuda que reciben
+05:50:35	[Tutor] Alejandro Santos:	ojo con eso
+05:50:37	[Tutor] Alejandro Santos:	es importante
+05:50:47	Daniel Mazekina:	Muchas gracias
+05:50:47	Rodrigo Alday:	muchas gracias
+05:50:51	Rodrigo Alday:	que tengan buen finde
+05:50:53	[Tutor] Jonatan Pereyra:	Nos vemos!
+05:50:53	Francisco Murua Leoni:	Nos vemos
+05:50:55	Leandro García Luzzi:	gracias!
+05:50:57	Maximiliano Luna:	Buen finde a todos!
+05:50:57	Alvaro Ansin Vila:	chau buen finde a todos!!!
+05:51:00	Braian Esmoli:	gracias, chau buen finde!
+05:51:02	Leandro Borda:	chau buen finde a todos
+05:51:09	camila gea:	Buen finde, nos vemos !!
+05:51:11	Nicolas Pacheco:	Muchas gracias, buen finde!
+05:51:11	Leandro Borda:	gracias Jony!!
+05:51:16	Jose Francisco Garcia Avila:	Gracias!!
+05:51:17	Valentino Martinez:	chau muchas gracias!!
+05:51:17	Alejo Coronel:	buen finde a todos, chau!
+05:52:01	Luis María Altgelt:	Gracias! buen fin de semana
+05:52:18	Rodrigo Alday:	buen finde
+05:52:18	Juan Martin Grasso:	Chau buen finde
