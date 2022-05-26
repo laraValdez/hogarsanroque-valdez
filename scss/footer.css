@@ -1,0 +1,321 @@
+@charset "UTF-8";
+/*-------------FOOTER----------------*/
+#main-footer {
+  background: #383b38;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(18%, #383b38), color-stop(82%, black));
+  background: linear-gradient(0deg, #383b38 18%, black 82%);
+  /*background: radial-gradient(ellipse at top, rgb(0, 0, 0), transparent),
+              radial-gradient(ellipse at top, rgb(0, 0, 0), transparent);*/
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 220px;
+}
+
+/*---------------Sección-Contacto-Footer----------------*/
+.sections-footer-uno {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  width: 30%;
+}
+
+h4 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #e0f1c3;
+  padding: 5px;
+}
+
+.phone-address {
+  list-style: none;
+  margin-left: 5px;
+}
+
+.phone-address li a {
+  text-decoration: none;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: white;
+}
+
+/*----------------Sección-Redes-Footer-------------------*/
+/*.sections-footer-dos{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+*/
+.redes li {
+  margin-right: 10px;
+}
+
+/*-----------------Sección-Novedades-Footer------------------*/
+/*.sections-footer-tres{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    
+}*/
+.news-text {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.8rem;
+  color: white;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.novedades {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  margin: 5px;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+@media (max-width: 425px) {
+  .logo-wpp {
+    display: none;
+  }
+  /*footer*/
+  #main-footer {
+    background-color: black;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    height: 450px;
+    text-align: center;
+  }
+  h4 {
+    font-size: 1.3rem;
+  }
+  /*---------------Sección-Contacto-Footer----------------*/
+  .sections-footer-uno {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+  }
+  .sections-footer-dos {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 100%;
+  }
+  .redes {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    list-style: none;
+  }
+}
+
+@media (min-width: 768px) {
+  /*-----footer----*/
+  footer {
+    height: 200px;
+  }
+  #main-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+    /*seccion uno*/
+    /*seccion tres*/
+  }
+  #main-footer .foot {
+    grid-column: span 3;
+  }
+  #main-footer h4 {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #e0f1c3;
+    font-size: 0.7rem;
+    margin: 5px;
+  }
+  #main-footer .phone-address li a {
+    text-decoration: none;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: white;
+  }
+  #main-footer .news-text {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.7rem;
+    color: white;
+    font-weight: bold;
+    margin: 5px;
+  }
+  #main-footer .novedades {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: bold;
+    margin: 5px;
+    color: white;
+  }
+  #main-footer .email {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: bold;
+    margin: 5px;
+    color: black;
+    padding-left: 5px;
+  }
+  /*seccion uno*/
+  .logo-wpp {
+    position: fixed;
+    right: 2rem;
+    bottom: 1rem;
+    width: 50px;
+  }
+  .logo-wpp:hover {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+  .sections-footer-uno {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    width: 30%;
+  }
+  .phone-address {
+    list-style: none;
+    margin-left: 5px;
+  }
+  /*seccion dos*/
+  .sections-footer-dos {
+    width: 30%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  .redes {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    list-style: none;
+  }
+  .redes li {
+    margin-right: 25px;
+    -webkit-transition: all 0.1s ease-in;
+    transition: all 0.1s ease-in;
+  }
+  .redes li:hover {
+    -webkit-transform: scale(1.2) translateY(-5px);
+            transform: scale(1.2) translateY(-5px);
+  }
+  /*seccion tres*/
+  .sections-footer-tres {
+    width: 35%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+@media (min-width: 1024px) {
+  /*--------footer--------*/
+  /*seccion uno*/
+  .logo-wpp {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    width: 60px;
+  }
+  .logo-wpp:hover {
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+  }
+}
+
+@media (min-width: 1440px) {
+  /*------------footer----------*/
+  .sections-footer-tres {
+    width: 25%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  #main-footer .sections-footer-dos {
+    width: 10%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
+/*# sourceMappingURL=footer.css.map */

@@ -19,7 +19,7 @@
 
     <!-------------------HEADER Y MENU------------------->
     <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav class="navbar navbar-expand-lg">
             <!-- bg-light-->
             <div class="container-fluid">
                 <a class="navbar-brand" href="/index.html">
@@ -34,7 +34,7 @@
                 </button>
 
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav menu">
                         <li class="nav-item">
                             <a class="nav-link active m-3 text-white" aria-current="page" href="../index.html">INICIO</a>
                         </li>
@@ -115,8 +115,8 @@
 
             <form action="#" class="animate__animated animate__fadeInDown">
                 <label class="novedades" for="info personal"></label>
-                <input class="novedades" type="text" name="user email" id="info personal" placeholder="  Email" />
-                <input class="btn-send" type="submit" value=" Enviar "></input>
+                <input class="novedades email" type="text" name="user email" id="info personal" placeholder="  Email" />
+                    <input class="btn btn-primary" type="submit" value="Enviar">
                 <div>
                     <input class="novedades" type="checkbox" name="news for user" id="novedades">
                     <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
@@ -141,7 +141,10 @@
     <!--ANIMATION SCRIPT-->
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
-        AOS.init();
+        AOS.init({
+            duration:800,
+            once:true
+        });
       </script>
 
     <!--Bootstrap script-->

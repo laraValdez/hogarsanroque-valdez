@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(196, 218, 172);
+    width: 100%;
+    height: auto;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(118,156, 92)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  .custom-toggler.navbar-toggler {
+    border: solid 3px rgb(118, 156, 92);
+    
+  } 
+
+.menu {
+        a{
+            text-decoration: none ;
+            font-family: 'Bebas Neue', cursive;
+            font-size: 1.3rem;
+            color: white;
+             
+        }
+
+        .dropdown-item{
+            color: black;
+        }
+    }
+    
+  
+
+
