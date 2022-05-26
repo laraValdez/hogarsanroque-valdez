@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ser Voluntario</title>
-     <!--AOS ANIMATE-CSS-->
+    <!--AOS ANIMATE-CSS-->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!--stylesheet-->
     <link rel="stylesheet" href="../css/estilos.css">
@@ -15,7 +15,7 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
 
-<body>
+<body class="body-contact">
 
     <!-------------------HEADER Y MENU------------------->
     <header>
@@ -36,7 +36,8 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                     <ul class="navbar-nav menu">
                         <li class="nav-item">
-                            <a class="nav-link active m-3 text-white" aria-current="page" href="../index.html">INICIO</a>
+                            <a class="nav-link active m-3 text-white" aria-current="page"
+                                href="../index.html">INICIO</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link m-3 text-white" href="quienes-somos.html">QUIÉNES SOMOS</a>
@@ -72,6 +73,111 @@
 
     </header>
 
+    <body>
+        <main>
+            <div class="container-fluid">
+                <div class="card w-100 my-3">
+                    <div class="card-body">
+                        <h2 class="card-title" data-aos="fade-right">Voluntarios </h2>
+                        <p class="card-text" data-aos="fade-right">Podes ser voluntario activo del hogar, esto quiere
+                            decir realizar las tareas diarias de mantenimiento del hogar y dar
+                            atención a nuestros sanroquitos.
+                        </p>
+                        <p class="card-text" data-aos="fade-right">-Si tenés vehículo particular, podes ayudarnos en los
+                            traslados al veterinario, recolectar las donaciones y trasladarlas. </p>
+                        <p class="card-text" data-aos="fade-right">-Si sos veterinario o estudiante de veterinaria y
+                            queres darnos una mano, comunicate con nosotros.</p>
+                        <p class="card-text" data-aos="fade-right">-Si sos de otro rubro profesional y querés ayudarnos,
+                            dejanos tu comentario. </p>
+
+
+
+                    </div>
+                </div>
+                <div>
+                    <img class="foto-volunteer" src="../assets/voluntarios.jpg" alt="foto de voluntarios" width="80%" height="450">
+                </div>
+
+                <div class="voluntarios-txt">
+                    <h3  data-aos="flip-right">¡Animate!</h3>
+                    <p class="donation-txt">Los voluntarios tienen un papel clave en encontrarles un hogar lleno de amor a
+                        cada una de las
+                        mascotas del refugio, lo que es una tarea apasionante y gratificante.
+    
+                        Hay un puesto para cada persona que quiera ofrecerse como voluntario ya que siempre hay una
+                        tarea para realizar que salva vidas.
+                    </p>
+    
+                </div>
+                
+               
+                <!--FORMULARIO DE CONTACTO-->
+
+        <form class="row g-3 col-lg-8 my-4 mx-4 animate__animated animate__fadeInRight ">
+            <div class="col-md-6">
+                <label for="validationDefault01" class="form-label bold">Nombre</label>
+                <input type="text" class="form-control" id="validationDefault01" placeholder="Escriba su nombre"
+                    required>
+            </div>
+            <div class="col-md-6">
+                <label for="validationDefault02" class="form-label bold">Apellido</label>
+                <input type="text" class="form-control" id="validationDefault02" placeholder="Escriba su Apellido"
+                    required>
+            </div>
+            <div class="col-md-6">
+                <label for="validationDefault03" class="form-label bold">Correo Electrónico</label>
+                <input type="text" class="form-control" id="validationDefault03" placeholder="example@mail.com"
+                    required>
+                <div class="valid-feedback">
+                    Looks good!
+                </div>
+            </div>
+            <div class="col-md-6">
+                <label for="validationDefault04" class="form-label bold">Teléfono</label>
+                <input type="text" class="form-control" id="validationDefault04"
+                    placeholder="Su número de teléfono o celular" required>
+            </div>
+
+            <div class="col-12">
+
+                <input class="btn btn-primary" type="submit" value="Enviar">
+                <input class="btn btn-secondary" type="reset" value="Borrar">
+            </div>
+
+            <!--CHECK Button-->
+            <div class="form-check my-2">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                <label class="form-check-label" for="flexCheckDefault">
+                    Quiero recibir novedades del hogar.
+                </label>
+            </div>
+
+        </form>
+
+            </div>
+
+            </div>
+        </main>
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,53 +186,54 @@
     <footer id="main-footer" class="grid">
         <!---------------Sección-Contacto-Footer-------------------->
         <section class=" sections-footer-uno">
-            <div class="foot" data-aos="fade-up"
-            data-aos-anchor-placement="top-bottom">
+            <div class="foot" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <h4>CONTACTO</h4>
-            <ul class="phone-address">
-                <li><a href="#" class="animate__animated animate__fadeInDown">Email: hogarsanroque@gmail.com</a></li>
-                <li><a href="#" class="animate__animated animate__fadeInDown">Barrio Alto Comedero, San Salvador de Jujuy, Jujuy</a></li>
-            </ul>
+                <ul class="phone-address">
+                    <li><a href="#" class="animate__animated animate__fadeInDown">Email: hogarsanroque@gmail.com</a>
+                    </li>
+                    <li><a href="#" class="animate__animated animate__fadeInDown">Barrio Alto Comedero, San Salvador de
+                            Jujuy, Jujuy</a></li>
+                </ul>
             </div>
 
         </section>
 
         <!----------------Sección-Redes-Footer------------------->
         <section class=" sections-footer-dos">
-            <div class="foot" data-aos="fade-up"
-            data-aos-anchor-placement="top-bottom">
+            <div class="foot" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <h4>SEGUINOS</h4>
-            <ul class="redes animate__animated animate__fadeInDown">
-                <li><a href="#"><img src="../assets/instagram.png" alt="instagram"></a></li>
-                <li><a href="#"><img src="../assets/facebook.png" alt="facebook"></a></li>
-                <li><a href="#"><img src="../assets/twitter.png" alt="twitter"></a></li>
-            </ul>
+                <ul class="redes animate__animated animate__fadeInDown">
+                    <li><a href="#"><img src="../assets/instagram.png" alt="instagram"></a></li>
+                    <li><a href="#"><img src="../assets/facebook.png" alt="facebook"></a></li>
+                    <li><a href="#"><img src="../assets/twitter.png" alt="twitter"></a></li>
+                </ul>
             </div>
-            
+
         </section>
         <!-----------------Sección-Novedades-Footer------------------>
         <section class=" sections-footer-tres">
-            <div class="foot" data-aos="fade-up"
-            data-aos-anchor-placement="top-bottom">
+            <div class="foot" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <h4>NOVEDADES</h4>
-            <p class="news-text animate__animated animate__fadeInDown">Si querés recibir información acerca del hogar, subscribite a nuestro newsletter y la
-                recibís en tu email
-                mensualmente.</p>
+                <p class="news-text animate__animated animate__fadeInDown">Si querés recibir información acerca del
+                    hogar, subscribite a nuestro newsletter y la
+                    recibís en tu email
+                    mensualmente.</p>
 
-            <form action="#" class="animate__animated animate__fadeInDown">
-                <label class="novedades" for="info personal"></label>
-                <input class="novedades email" type="text" name="user email" id="info personal" placeholder="  Email" />
+                <form action="#" class="animate__animated animate__fadeInDown">
+                    <label class="novedades" for="info personal"></label>
+                    <input class="novedades email" type="text" name="user email" id="info personal"
+                        placeholder="  Email" />
                     <input class="btn btn-primary" type="submit" value="Enviar">
-                <div>
-                    <input class="novedades" type="checkbox" name="news for user" id="novedades">
-                    <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
-                </div>
+                    <div>
+                        <input class="novedades" type="checkbox" name="news for user" id="novedades">
+                        <label class="novedades" for="novedades">Quiero recibir novedades sobre el hogar.</label>
+                    </div>
 
 
 
-            </form>
+                </form>
             </div>
-            
+
         </section>
 
 
@@ -142,15 +249,15 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
         AOS.init({
-            duration:800,
-            once:true
+            duration: 800,
+            once: true
         });
-      </script>
+    </script>
 
     <!--Bootstrap script-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>  
+        crossorigin="anonymous"></script>
 </body>
 
 </html>

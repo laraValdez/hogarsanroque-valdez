@@ -1,26 +1,11 @@
 h3 {
   text-align: center;
   font-family: "Plus Jakarta Sans", sans-serif;
-  color: black;
+  font-size: 2.5rem;
+  color: white;
   font-weight: bold;
-  text-shadow: 2px 2px #635c5c;
-}
-
-.social-media {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: space-evenly;
-      -ms-flex-pack: space-evenly;
-          justify-content: space-evenly;
-}
-
-.social-media li {
-  list-style: none;
-}
-
-.social-media li a {
-  text-decoration: none;
+  text-shadow: 2px 2px #585050;
+  background-color: #db8989;
 }
 
 .marcos {
@@ -39,7 +24,7 @@ h3 {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: #a7e0cd;
+  background-color: #c3ebdd;
   border-radius: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -56,7 +41,7 @@ h3 {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: #a7e0cd;
+  background-color: #c3ebdd;
   border-radius: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -73,7 +58,7 @@ h3 {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: #a7e0cd;
+  background-color: #c3ebdd;
   border-radius: 15px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -84,5 +69,70 @@ h3 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+.ubi {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 425px) {
+  .marcos {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .marco1 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #a7e0cd;
+    border-radius: 15px;
+  }
+  .marco1 a img {
+    width: 80px;
+    height: auto;
+  }
+  .marco2 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #a7e0cd;
+    border-radius: 15px;
+  }
+  .marco2 a img {
+    width: 80px;
+    height: auto;
+  }
+  .marco3 {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: #a7e0cd;
+    border-radius: 15px;
+  }
+  .marco3 a img {
+    width: 80px;
+    height: auto;
+  }
 }
 /*# sourceMappingURL=contacto.css.map */

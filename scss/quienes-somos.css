@@ -1,0 +1,104 @@
+.scrollable {
+  height: 450px;
+  overflow: scroll;
+}
+
+.text {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.1rem;
+  text-align: center;
+  color: black;
+}
+
+.donation-txt {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.9rem;
+  color: black;
+}
+
+.donation-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding: 25px;
+}
+
+.donation-icons li {
+  list-style: none;
+  width: 15%;
+  text-align: center;
+}
+
+@media (min-width: 320px) {
+  .donation-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+  }
+  .donation-icons li {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .tabla {
+    margin-left: 20%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .donation-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    text-align: center;
+  }
+  .donation-icons li {
+    list-style: none;
+    width: 25%;
+    text-align: center;
+    padding: 15px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .donation-icons {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
+    text-align: center;
+  }
+  .donation-icons li {
+    list-style: none;
+    width: 18%;
+    text-align: center;
+  }
+}
+/*# sourceMappingURL=quienes-somos.css.map */
