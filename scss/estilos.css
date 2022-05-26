@@ -221,6 +221,10 @@ header {
     margin-bottom: 35px;
   }
   /*AYUDAR*/
+  #main {
+    /*VOLUNTARIO*/
+    /*secciones adoptar*/
+  }
   #main .section-ayudar {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -240,7 +244,6 @@ header {
     width: 60%;
     height: auto;
   }
-  /*VOLUNTARIO*/
   #main .section-voluntario {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -255,13 +258,12 @@ header {
     text-align: center;
     padding-left: 20px;
   }
-  .foto-voluntario {
+  #main .foto-voluntario {
     padding-top: 10%;
     width: 70%;
     height: 70%;
   }
-  /*secciones adoptar*/
-  .title-text-adoptar {
+  #main .title-text-adoptar {
     grid-column: span 2;
     width: 100%;
     margin-bottom: 35px;
@@ -698,6 +700,94 @@ footer h4 {
 
 main .nota-yt {
   margin: 1.2rem;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: #e6c07b;
+  font-weight: bold;
+  text-shadow: 2px 2px #635c5c;
+}
+
+.social-media {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.social-media li {
+  list-style: none;
+}
+
+.social-media li a {
+  text-decoration: none;
+}
+
+.marcos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.marco1 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.marco2 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.marco3 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #a7e0cd;
+  border-radius: 15px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 @media (max-width: 425px) {

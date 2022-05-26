@@ -97,6 +97,10 @@
     margin-bottom: 35px;
   }
   /*AYUDAR*/
+  #main {
+    /*VOLUNTARIO*/
+    /*secciones adoptar*/
+  }
   #main .section-ayudar {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -116,7 +120,6 @@
     width: 60%;
     height: auto;
   }
-  /*VOLUNTARIO*/
   #main .section-voluntario {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -131,13 +134,12 @@
     text-align: center;
     padding-left: 20px;
   }
-  .foto-voluntario {
+  #main .foto-voluntario {
     padding-top: 10%;
     width: 70%;
     height: 70%;
   }
-  /*secciones adoptar*/
-  .title-text-adoptar {
+  #main .title-text-adoptar {
     grid-column: span 2;
     width: 100%;
     margin-bottom: 35px;
