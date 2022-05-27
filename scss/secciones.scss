@@ -57,11 +57,12 @@ $height:550px;
     background-color: rgb(244,162,108);
     height: $height;
 }
-.foto-voluntario{
-    width: 100%;
-    height: 220px;
-}
 
+.foto-voluntario{
+        width: 140px;
+        padding-top: 10%;
+       
+}
 
 /*------------MEDIA QUERIES------------*/
 
@@ -70,28 +71,37 @@ $height:550px;
 
     
     #main{
-        .foto-donar{
+            .foto-donar{
             width: 150px;
             height: auto;
-        }
+             }
 
-        /*------seccion-voluntario------*/
-    .foto-voluntario{
-        width: 140px;
-        max-height: 140px;
-        margin-top: 10%;
-    }
+             /*------seccion-voluntario------*/
+    
+        
 
-    .foto-adoptar{
-        width: 140px;
-        height: auto;
-        margin-top: 10%;
-        margin-bottom: 10px;
-    }
+              .foto-adoptar{
+             width: 140px;
+             height: auto;
+             margin-top: 10%;
+                margin-bottom: 10px;
+              }
+
+          
+              .foto-voluntario{
+                width: 140px;
+                padding-top: 10%;
+               }
+
+               .section-voluntario{
+                padding-bottom: 10%;
+            }
     } 
-    .section-voluntario{
-        padding-bottom: 10%;
-    }
+    
+    
+
+    
+    
 }
 
 @media (min-width:768px)  {
@@ -104,15 +114,17 @@ $height:550px;
 
     /*secciones ayudar voluntario*/
 
-.title-text{
-    grid-column: span 2;
-    width: 100%;
-    margin-bottom: 35px;
-}
+    
 
-/*AYUDAR*/
-#main {
-    .section-ayudar{
+    /*AYUDAR*/
+    #main {
+        .title-text{
+            grid-column: span 2;
+            width: 100%;
+            margin-bottom: 35px;
+            }
+
+        .section-ayudar{
         display: flex;
         height: 350px;
         justify-content: space-between;
@@ -121,17 +133,17 @@ $height:550px;
         padding-left: 20px;
         }
 
-    .foto-donar{
+        .foto-donar{
         padding-top: 10%;
         width: 60%;
         height:auto;
         
-    }
+        }
 
-    /*VOLUNTARIO*/    
+        /*VOLUNTARIO*/    
  
-
-    .section-voluntario{
+        
+        .section-voluntario{
         display: flex;
         height: 370px;
         justify-content: space-between;
@@ -139,42 +151,44 @@ $height:550px;
         text-align: center;
         padding-left: 20px;
         }
-     
-
-   
-.foto-voluntario{
-    padding-top: 10%;
-    width: 70%;
-    height: 70%;
     
-} 
-    /*secciones adoptar*/
-.title-text-adoptar{
-    grid-column: span 2;
-    width: 100%;
-    margin-bottom: 35px;
-}
- 
-.section-adoptar{
-    display: flex;
-    flex-direction: row-reverse;
-    height: 350px;
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-    
-    }
+        .section-voluntario img{
+            width:200 px;
+        }
 
-    .foto-adoptar{
+        
+        /*secciones adoptar*/
+        .title-text-adoptar{
+     grid-column: span 2;
+     width: 100%;
+        margin-bottom: 35px;
+        }
+
+        .section-adoptar{
+      display: flex;
+         flex-direction: row-reverse;
+         height: 350px;
+        justify-content: space-between;
+     align-items: center;
+      text-align: center;
+    
+     }
+
+        .foto-adoptar{
         padding-top: 10%;
         width: 70%;
         height:auto;
         
+        }
+
+        .foto-voluntario{
+            max-width: 250px;
+            padding-top: 10%;
+              }
     }
 
-}
-
-  
+    
+   
 }
 
 
@@ -207,10 +221,11 @@ $height:550px;
     }
 
     /*--------------seccion-voluntario---------------*/
+    
     .foto-voluntario{
         width: auto;
-        height:auto;
-       
+        height: auto;
+        margin-top:10px ;
     }
 }
 
@@ -226,10 +241,7 @@ $height:550px;
             height: auto;
      } 
  /*--------------seccion-voluntario---------------*/
-     .foto-voluntario{
-        width: auto;
-        height: auto;
-    }
+     
     }
 
     /*--------------seccion-adoptar---------------*/
@@ -238,7 +250,12 @@ $height:550px;
     .foto-adoptar{
         width: auto;
         height: auto;}
-    
+        
+        .foto-voluntario{
+            width: auto;
+            height: auto;
+            margin-top:10px ;
+        }
 } 
    
 .title-text-adoptar{

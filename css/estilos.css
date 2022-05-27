@@ -134,8 +134,8 @@ header {
   height: 550px; }
 
 .foto-voluntario {
-  width: 100%;
-  height: 220px; }
+  width: 140px;
+  padding-top: 10%; }
 
 /*------------MEDIA QUERIES------------*/
 @media (min-width: 320px) {
@@ -145,31 +145,30 @@ header {
     #main .foto-donar {
       width: 150px;
       height: auto; }
-    #main .foto-voluntario {
-      width: 140px;
-      max-height: 140px;
-      margin-top: 10%; }
     #main .foto-adoptar {
       width: 140px;
       height: auto;
       margin-top: 10%;
       margin-bottom: 10px; }
-  .section-voluntario {
-    padding-bottom: 10%; } }
+    #main .foto-voluntario {
+      width: 140px;
+      padding-top: 10%; }
+    #main .section-voluntario {
+      padding-bottom: 10%; } }
 
 @media (min-width: 768px) {
   .grid {
     display: grid;
     grid-template-columns: 1fr repeat(2, minmax(auto, 22em)) 1fr 1fr 1fr 1fr; }
   /*secciones ayudar voluntario*/
-  .title-text {
-    grid-column: span 2;
-    width: 100%;
-    margin-bottom: 35px; }
   /*AYUDAR*/
   #main {
     /*VOLUNTARIO*/
     /*secciones adoptar*/ }
+    #main .title-text {
+      grid-column: span 2;
+      width: 100%;
+      margin-bottom: 35px; }
     #main .section-ayudar {
       display: flex;
       height: 350px;
@@ -188,10 +187,8 @@ header {
       align-items: center;
       text-align: center;
       padding-left: 20px; }
-    #main .foto-voluntario {
-      padding-top: 10%;
-      width: 70%;
-      height: 70%; }
+    #main .section-voluntario img {
+      width: 200 px; }
     #main .title-text-adoptar {
       grid-column: span 2;
       width: 100%;
@@ -206,7 +203,10 @@ header {
     #main .foto-adoptar {
       padding-top: 10%;
       width: 70%;
-      height: auto; } }
+      height: auto; }
+    #main .foto-voluntario {
+      max-width: 250px;
+      padding-top: 10%; } }
 
 @media (min-width: 1024px) {
   /*--------------seccion-ayudar---------------*/
@@ -226,7 +226,8 @@ header {
       margin-top: 10px; }
     #main .foto-voluntario {
       width: auto;
-      height: auto; } }
+      height: auto;
+      margin-top: 10px; } }
 
 @media (min-width: 1440px) {
   /*--------------seccion-ayudar---------------*/
@@ -237,12 +238,13 @@ header {
       #main .title-text .foto-donar {
         width: 265px;
         height: auto; }
-      #main .title-text .foto-voluntario {
-        width: auto;
-        height: auto; }
     #main .foto-adoptar {
       width: auto;
       height: auto; }
+    #main .foto-voluntario {
+      width: auto;
+      height: auto;
+      margin-top: 10px; }
   .title-text-adoptar {
     margin-right: 20px; } }
 
